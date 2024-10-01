@@ -12,18 +12,18 @@ Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, 
 ### Handelsalgoritmes
 Een algoritme ontwikkeld om markttrends te analyseren en strategisch te handelen op basis van die inzichten. Geoptimaliseerd voor robuust risicobeheer en dynamische marktfasen.
 
-- [Handelsalgoritme Ontwikkeling](https://github.com/jouwgebruikersnaam/handelsalgoritme)
+- [Handelsalgoritme Ontwikkeling](https://github.com/DR-GRIEZEL/handelsalgoritme)
 
 ### Data Collectie Automatisering
 Automatisering van gegevensverzameling via API's en web scraping, met een sterke nadruk op beveiliging en nauwkeurigheid.
 
-- [Data Verzameling Automatisatie](https://github.com/jouwgebruikersnaam/datacollectie)
+- [Data Verzameling Automatisatie](https://github.com/DR-GRIEZEL/datacollectie)
 
 ## Contact
-- Twitter: [mijntwitter](https://twitter.com/jouwgebruikersnaam)
+- Twitter: [@GVancauwenberge](https://twitter.com/gvancauwenberge)
 
 ## GitHub Statistieken
-![Jouwgebruikersnaam's GitHub stats](https://github-readme-stats.vercel.app/api?username=jouwgebruikersnaam&show_icons=true)
+![Jouwgebruikersnaam's GitHub stats](https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true)
 
 ---
 ## Licentie
