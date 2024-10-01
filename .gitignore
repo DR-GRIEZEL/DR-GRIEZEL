@@ -1,0 +1,10 @@
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore OS files
+Thumbs.db
+.DS_Store
+
+# Ignore LICENSE
+LICENSE
