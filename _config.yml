@@ -2,6 +2,15 @@ title: "Mijn Profiel"
 description: "Geautomatiseerde handelsalgoritmes en data beveiliging"
 theme: minima
 remote_theme: pages-themes/minima@latest
+
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+  - jekyll-feed           # Voor RSS-feeds
+  - jekyll-sitemap        # Voor automatisch gegenereerde sitemaps
+  - jekyll-seo-tag        # Voor SEO optimalisatie
+  - jekyll-paginate       # Voor paginering
+  - jekyll-archives       # Voor archivering van oude posts
+  - jekyll-remote-theme   # Voor ondersteuning van externe thema's
+  - jekyll-mentions       # Voor @gebruikersnaam-vermeldingen
+  - jekyll-emoji          # Voor emoji ondersteuning
+  - jekyll-assets         # Voor geavanceerd assetbeheer
+  - jekyll-analytics      # Voor integratie met Google Analytics of andere platforms
