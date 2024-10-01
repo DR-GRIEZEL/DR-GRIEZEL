@@ -12,13 +12,19 @@ Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, 
 ### Handelsalgoritmes
 Een algoritme ontwikkeld om markttrends te analyseren en strategisch te handelen op basis van die inzichten. Geoptimaliseerd voor robuust risicobeheer en dynamische marktfasen.
 
+- [Handelsalgoritme Ontwikkeling](https://github.com/jouwgebruikersnaam/handelsalgoritme)
+
 ### Data Collectie Automatisering
 Automatisering van gegevensverzameling via API's en web scraping, met een sterke nadruk op beveiliging en nauwkeurigheid.
 
-## Licentie
-Dit project wordt gedistribueerd onder de MIT-licentie. Zie het bestand LICENSE voor details.
+- [Data Verzameling Automatisatie](https://github.com/jouwgebruikersnaam/datacollectie)
+
+## Contact
+- Twitter: [mijntwitter](https://twitter.com/jouwgebruikersnaam)
+
+## GitHub Statistieken
+![Jouwgebruikersnaam's GitHub stats](https://github-readme-stats.vercel.app/api?username=jouwgebruikersnaam&show_icons=true)
 
 ---
-
-## Data Beveiliging
-Veiligheid is een van mijn grootste prioriteiten. Alle data die in mijn projecten wordt verwerkt, is goed beschermd met de nieuwste beveiligingsprotocollen en maatregelen. API's en andere toegangspunten worden met zorg beveiligd en onderhouden om integriteit en privacy te waarborgen.
+## Licentie
+Dit project wordt gedistribueerd onder de MIT-licentie. Zie het bestand LICENSE voor details.
