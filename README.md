@@ -60,13 +60,10 @@ Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
 [![Stars](https://img.shields.io/github/stars/dr-griezel/code-snippets.svg?style=social&label=Star)](https://github.com/dr-griezel/code-snippets)
 
 
-# Persoonlijke data
+# Persoonlijke Statistieken
 
 ## GitHub Statistieken
 ![Jouwgebruikersnaam's GitHub stats](https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true)
-
-## Contact
-- Twitter: [@GVancauwenberge](https://twitter.com/gvancauwenberge)
 
 ---
 ## Licentie
