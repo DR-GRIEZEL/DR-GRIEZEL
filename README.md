@@ -17,48 +17,56 @@ Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, 
 # Projecten
 Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
 
-## 1. AI Kalender Project 📅
-**Doel**: Integratie van ChatGPT, Notion en Google Calendar om een AI-aangedreven kalender te creëren.  
-**Status**: In ontwikkeling  
-**Prioriteit**: Hoog  
-**Repository**: [ai-calendar](#)  
+## 📅 AI Kalender Project 📅
+- **Doel**: Integratie van ChatGPT, Notion en Google Calendar om een AI-aangedreven kalender te creëren.  
+- **Status**: In ontwikkeling  
+- **Prioriteit**: Hoog  
+- **Repository**: [ai-calendar](https://github.com/dr-griezel/ai-calendar)
+[![Stars](https://img.shields.io/github/stars/dr-griezel/ai-calendar.svg?style=social&label=Star)](https://github.com/dr-griezel/ai-calendar)
 
-## 2. Trading Algoritme voor Crypto 📊
-**Doel**: Ontwikkelen van een geautomatiseerd trading-algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.  
-**Status**: Onder ontwikkeling  
-**Prioriteit**: Hoog  
-**Repository**: [algos](#)  
+## 📊 Trading Algoritme voor Crypto 📊
+- **Doel**: Ontwikkelen van een geautomatiseerd trading-algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.  
+- **Status**: Onder ontwikkeling  
+- **Prioriteit**: Hoog  
+- **Repository**: [algos](https://github.com/dr-griezel/algos)
+[![Stars](https://img.shields.io/github/stars/dr-griezel/algos.svg?style=social&label=Star)](https://github.com/dr-griezel/algos)
 
-## 3. YouTube AI Samenvatting Bot 📹
-**Doel**: Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI.  
-**Status**: Actief in ontwikkeling  
-**Prioriteit**: Hoog  
-**Repository**: [youtube-ai-summary](#)  
+## 📹 YouTube AI Samenvatting Bot 📹
+- **Doel**: Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI.  
+- **Status**: Actief in ontwikkeling  
+- **Prioriteit**: Hoog  
+- **Repository**: [youtube-ai-summary](https://github.com/dr-griezel/youtube-ai-summary)
+[![Stars](https://img.shields.io/github/stars/dr-griezel/youtube-ai-summary.svg?style=social&label=Star)](https://github.com/dr-griezel/youtube-ai-summary)
 
-## 4. GitHub Profiel & Blog Integratie 📝
-**Doel**: Mijn GitHub-profiel synchroniseren met een blog die wordt gehost via Cloudflare Workers.  
-**Status**: Onder ontwikkeling  
-**Prioriteit**: Gemiddeld  
-**Repository**: [blog](#)
+## 📝 GitHub Profiel & Blog Integratie 📝
+- **Doel**: Mijn GitHub-profiel synchroniseren met een blog die wordt gehost via Cloudflare Workers.  
+- **Status**: Onder ontwikkeling  
+- **Prioriteit**: Gemiddeld  
+- **Repository**: [blog](https://github.com/dr-griezel/blog)
+[![Stars](https://img.shields.io/github/stars/dr-griezel/blog.svg?style=social&label=Star)](https://github.com/dr-griezel/blog)
 
-## 5. Notion API Integratie 📚
-**Doel**: Automatiseren van databasebeheer met Notion API voor tracking van investeringen en uitgaven.  
-**Status**: Werk in uitvoering  
-**Prioriteit**: Gemiddeld  
-**Repository**: [notion](#)  
+## 📚 Notion API Integratie 📚
+- **Doel**: Automatiseren van databasebeheer met Notion API voor tracking van investeringen en uitgaven.  
+- **Status**: Werk in uitvoering  
+- **Prioriteit**: Gemiddeld  
+- **Repository**: [notion](https://github.com/dr-griezel/notion-api)
+[![Stars](https://img.shields.io/github/stars/dr-griezel/notion-api.svg?style=social&label=Star)](https://github.com/dr-griezel/notion-api)
 
-## 6. Code Snippets Project ⚙️
-**Doel**: Een verzameling handige code snippets voor persoonlijke projecten.  
-**Status**: Actief  
-**Prioriteit**: Laag  
-**Repository**: [snippets](#)
+## ⚙️ Code Snippets Project ⚙️
+- **Doel**: Een verzameling handige code snippets voor persoonlijke projecten.  
+- **Status**: Actief  
+- **Prioriteit**: Laag  
+- **Repository**: [snippets](https://github.com/dr-griezel/code-snippets)
+[![Stars](https://img.shields.io/github/stars/dr-griezel/code-snippets.svg?style=social&label=Star)](https://github.com/dr-griezel/code-snippets)
 
 
-## Contact
-- Twitter: [@GVancauwenberge](https://twitter.com/gvancauwenberge)
+# Persoonlijke data
 
 ## GitHub Statistieken
 ![Jouwgebruikersnaam's GitHub stats](https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true)
+
+## Contact
+- Twitter: [@GVancauwenberge](https://twitter.com/gvancauwenberge)
 
 ---
 ## Licentie
