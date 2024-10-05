@@ -29,7 +29,7 @@ Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
 - **Doel**: Ontwikkelen van een geautomatiseerd trading-algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.  
 - **Status**: Onder ontwikkeling  
 - **Prioriteit**: Hoog  
-- **Repository**: [algos](https://github.com/dr-griezel/trading-bots)
+- **Repository**: [trading-bots](https://github.com/dr-griezel/trading-bots)
 [![Stars](https://img.shields.io/github/stars/dr-griezel/trading-bots.svg?style=social&label=Star)](https://github.com/dr-griezel/trading-bots)
 [![Forks](https://img.shields.io/github/forks/dr-griezel/trading-bots?style=social)](https://github.com/dr-griezel/trading-bots/network/members)
 
