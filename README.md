@@ -23,13 +23,15 @@ Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
 - **Prioriteit**: Hoog  
 - **Repository**: [ai-calendar](https://github.com/dr-griezel/ai-calendar)
 [![Stars](https://img.shields.io/github/stars/dr-griezel/ai-calendar.svg?style=social&label=Star)](https://github.com/dr-griezel/ai-calendar)
+[![Forks](https://img.shields.io/github/forks/dr-griezel/ai-calendar?style=social)](https://github.com/dr-griezel/ai-calendar/network/members)
 
 ## 📊 Trading Algoritme voor Crypto 📊
 - **Doel**: Ontwikkelen van een geautomatiseerd trading-algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.  
 - **Status**: Onder ontwikkeling  
 - **Prioriteit**: Hoog  
-- **Repository**: [algos](https://github.com/dr-griezel/algos)
-[![Stars](https://img.shields.io/github/stars/dr-griezel/algos.svg?style=social&label=Star)](https://github.com/dr-griezel/algos)
+- **Repository**: [trading-bots](https://github.com/dr-griezel/trading-bots)
+[![Stars](https://img.shields.io/github/stars/dr-griezel/trading-bots.svg?style=social&label=Star)](https://github.com/dr-griezel/trading-bots)
+[![Forks](https://img.shields.io/github/forks/dr-griezel/trading-bots?style=social)](https://github.com/dr-griezel/trading-bots/network/members)
 
 ## 📹 YouTube AI Samenvatting Bot 📹
 - **Doel**: Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI.  
@@ -37,13 +39,17 @@ Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
 - **Prioriteit**: Hoog  
 - **Repository**: [youtube-ai-summary](https://github.com/dr-griezel/youtube-ai-summary)
 [![Stars](https://img.shields.io/github/stars/dr-griezel/youtube-ai-summary.svg?style=social&label=Star)](https://github.com/dr-griezel/youtube-ai-summary)
+[![Forks](https://img.shields.io/github/forks/dr-griezel/youtube-ai-summary?style=social)](https://github.com/dr-griezel/youtube-ai-summary/network/members)
 
-## 📝 GitHub Profiel & Blog Integratie 📝
-- **Doel**: Mijn GitHub-profiel synchroniseren met een blog die wordt gehost via Cloudflare Workers.  
+
+## 📝 GitHub Blog met Cloudflare Integratie 📝
+- **Doel**: Mijn blog-repository synchroniseren met het sub-deomein van Cloudflare Workers.  
 - **Status**: Onder ontwikkeling  
 - **Prioriteit**: Gemiddeld  
 - **Repository**: [blog](https://github.com/dr-griezel/blog)
 [![Stars](https://img.shields.io/github/stars/dr-griezel/blog.svg?style=social&label=Star)](https://github.com/dr-griezel/blog)
+[![Forks](https://img.shields.io/github/forks/dr-griezel/blog?style=social)](https://github.com/dr-griezel/blog/network/members)
+
 
 ## 📚 Notion API Integratie 📚
 - **Doel**: Automatiseren van databasebeheer met Notion API voor tracking van investeringen en uitgaven.  
@@ -51,6 +57,7 @@ Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
 - **Prioriteit**: Gemiddeld  
 - **Repository**: [notion](https://github.com/dr-griezel/notion-api)
 [![Stars](https://img.shields.io/github/stars/dr-griezel/notion-api.svg?style=social&label=Star)](https://github.com/dr-griezel/notion-api)
+[![Forks](https://img.shields.io/github/forks/dr-griezel/notion-api?style=social)](https://github.com/dr-griezel/notion-api/network/members)
 
 ## ⚙️ Code Snippets Project ⚙️
 - **Doel**: Een verzameling handige code snippets voor persoonlijke projecten.  
@@ -58,15 +65,13 @@ Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
 - **Prioriteit**: Laag  
 - **Repository**: [snippets](https://github.com/dr-griezel/code-snippets)
 [![Stars](https://img.shields.io/github/stars/dr-griezel/code-snippets.svg?style=social&label=Star)](https://github.com/dr-griezel/code-snippets)
+[![Forks](https://img.shields.io/github/forks/dr-griezel/code-snippets?style=social)](https://github.com/dr-griezel/code-snippets/network/members)
 
 
-# Persoonlijke data
+# Persoonlijke Statistieken
 
 ## GitHub Statistieken
 ![Jouwgebruikersnaam's GitHub stats](https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true)
-
-## Contact
-- Twitter: [@GVancauwenberge](https://twitter.com/gvancauwenberge)
 
 ---
 ## Licentie
