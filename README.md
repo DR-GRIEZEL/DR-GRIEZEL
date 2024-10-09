@@ -1,8 +1,8 @@
-# Glenn Vancauwenberge - **Data-Analist**
+<h1 align="center">Glenn Vancauwenberge - <strong>Data-Analist</strong></h1>
 
 ---
 
-## Over Mij
+<h2 style="color: green;">Over Mij</h2>
 
 Ik ben een **data-analist** en ontwikkelaar van geautomatiseerde handelsalgoritmes, met een sterke focus op netwerkbeveiliging en kwantitatieve analyse. Mijn doel is het ontwikkelen van efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik. 
 
