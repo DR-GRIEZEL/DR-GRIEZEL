@@ -11,9 +11,9 @@
       <p>Mijn doel is het ontwikkelen van efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik.</p>
       <div align="center">
         <a href="https://github.com/DR-GRIEZEL/DR-GRIEZEL">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=DR-GRIEZEL" alt="Readme Card"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=DR-GRIEZEL" alt="Readme Card" style="max-width: 100%; height: auto;"/>
         </a>
-        <img src="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&theme=gruvbox" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&theme=gruvbox" alt="GitHub Stats" style="max-width: 100%; height: auto;"/>
       </div>
     </td>
     <td align="center" style="vertical-align: top;">
@@ -29,7 +29,7 @@
           <p>Ervaring met het verbinden van API's (o.a. Google, Notion, ChatGPT) voor dataverzameling en -beheer.</p>
         </li>
         <li>🌐 <strong>Webontwikkeling</strong> en **Database-beheer**: 
-        <p>Beheer van Notion-databases en het bouwen van webpagina's met behulp van HTML, SCSS, en JavaScript. Ontwikkeling van een blogpagina met Cloudflare Workers voor HTTPS/TSL.</p>
+        <p>Beheer van Notion-databases en het bouwen van webpagina's met behulp van XHTML, SCSS, en JavaScript. Ontwikkeling van een blogpagina met Cloudflare Workers voor HTTPS/TSL.</p>
         </li>
         <li>🤖 <strong>Machine Learning</strong>: 
         <p>Focus op het toepassen van machine learning-algoritmes om handelspatronen te voorspellen en data te optimaliseren.</p>
