@@ -11,11 +11,11 @@
     <td style="width: 50%; vertical-align: top;">
       <h2>Interesses</h2>
       <ul>
-        <li>📊 **Data-analyse**: Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie om marktdynamiek te analyseren.</li>
-        <li>🔒 **Netwerkbeveiliging**: Expertise in het beveiligen van netwerken, API-aanroepen, port forwarding, en encryptie voor veilige datastromen.</li>
-        <li>🔗 **API-integratie**: Ervaring met het verbinden van API's (o.a. Google, Notion, ChatGPT) voor dataverzameling en -beheer.</li>
-        <li>🌐 **Webontwikkeling** en **Database-beheer**: Beheer van Notion-databases en het bouwen van webpagina's met behulp van HTML, SCSS, en JavaScript. Ontwikkeling van een blogpagina met Cloudflare Workers voor HTTPS/TSL.</li>
-        <li>🤖 **Machine Learning**: Focus op het toepassen van machine learning-algoritmes om handelspatronen te voorspellen en data te optimaliseren.</li>
+        <li>📊 <strong>Data-analyse</strong>: Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie om marktdynamiek te analyseren.</li>
+        <li>🔒 <strong>Netwerkbeveiliging</strong>: Expertise in het beveiligen van netwerken, API-aanroepen, port forwarding, en encryptie voor veilige datastromen.</li>
+        <li>🔗 <strong>API-integratie</strong>: Ervaring met het verbinden van API's (o.a. Google, Notion, ChatGPT) voor dataverzameling en -beheer.</li>
+        <li>🌐 <strong>Webontwikkeling</strong> en **Database-beheer**: Beheer van Notion-databases en het bouwen van webpagina's met behulp van HTML, SCSS, en JavaScript. Ontwikkeling van een blogpagina met Cloudflare Workers voor HTTPS/TSL.</li>
+        <li>🤖 <strong>Machine Learning</strong>: Focus op het toepassen van machine learning-algoritmes om handelspatronen te voorspellen en data te optimaliseren.</li>
       </ul>
     </td>
   </tr>
