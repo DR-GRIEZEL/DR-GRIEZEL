@@ -32,6 +32,9 @@ Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, 
 Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
 
 ## 📅 AI Kalender Project 📅
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=github-readme-stats)](https://github.com/DR-GRIEZEL/ai-calendar)
+
 - **Doel**: Integratie van ChatGPT, Notion en Google Calendar om een AI-aangedreven kalender te creëren.  
 - **Status**: In ontwikkeling  
 - **Prioriteit**: Hoog  
