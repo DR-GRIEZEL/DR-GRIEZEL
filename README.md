@@ -78,12 +78,10 @@
         </li>
       </ul>
     </td>
-
     <!-- Projecten Sectie -->
     <td align="center" style="vertical-align: top; width: 50%;">
       <h2><strong>🎯 Projecten</strong></h2>
       <p>Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:</p>
-
       <!-- Project 1 -->
       <ul>
         <li>
@@ -96,7 +94,6 @@
           </ul>
         </li>
       </ul>
-
       <!-- Project 2 -->
       <ul>
         <li>
@@ -109,7 +106,6 @@
           </ul>
         </li>
       </ul>
-
       <!-- Project 3 -->
       <ul>
         <li>
@@ -122,7 +118,6 @@
           </ul>
         </li>
       </ul>
-
       <!-- Project 4 -->
       <ul>
         <li>
@@ -135,7 +130,6 @@
           </ul>
         </li>
       </ul>
-
       <!-- Project 5 -->
       <ul>
         <li>
@@ -148,7 +142,6 @@
           </ul>
         </li>
       </ul>
-
       <!-- Project 6 -->
       <ul>
         <li>
