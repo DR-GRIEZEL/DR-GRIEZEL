@@ -1,4 +1,4 @@
-# Glenn Vancauwenberge - Data-Analist en Trading Algoritme Ontwikkelaar
+# Glenn Vancauwenberge - Data-Analist
 
 ## Over Mij
 Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, met een sterke focus op netwerkbeveiliging en kwantitatieve analyse. Mijn doel is het ontwikkelen van efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik. 
@@ -11,7 +11,7 @@ TODO: AI-youtube-summariser voor tijdsbeheer te optimalisere en strategieën te 
 - 🧠 **Machine learning** en **statistische modellen**: mean reversion, Monte Carlo-simulaties, grammaticale evolutie.
 - 📊 **Data-analyse**: **Glassnode**, **DeFi Pulse**
 - 🔗 **API-integratie**: dataverzameling en databeheer.
-- 🌐 **browser-extensies**:
+- 🌐 **Webontwikkeling**: Beheren van Notion DB, Notion website, Cloudflare Workers. HTTPS/TSL, netwerkbeheer, HTML, SCSS, JS.
 - 🛠️ **Back-end en serverontwikkeling**: hosten en automatiseren van API-verzoeken.
 
 # Projecten
