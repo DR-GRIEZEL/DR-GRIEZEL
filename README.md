@@ -41,31 +41,46 @@
 
 ---
 
-# 📎 Voortgangsrapportage
-
-### 1. 📅 **AI-kalenderintegratie** (& browser-extensie om tijdsbeheer te beheren en optimaliseren.)
-[Status: Quart-lib decoderen...]
-  
-  - Notion
-  - Google
-  - ChatGPT
-
-### 2. 📹 **AI-youtube-summariser** (& ontwikkelen van publieke database voor werkprocessen te automatiseren en strategieën te verwerken en documenteren.)
-[Status: Downloader wordt ontwikkeld...]
-  
-  - downloader
-  - summarise met ChatGPT+ (geen API)
-  - opslaan in folder gebaseerd op kernwoorden
-
-### 3. 📊 **Notion DB & Website**
-[Voortgang: Bezig met het implementeren investeringen-database, abbonementen-database.]
-
-- **DB**
-  - geef beleggingen weer met "ID", "AMOUNT ID1", "DATE A", "AMOUNT ID2", "DATE ID B", "FINAL AMOUNT"
-  - intergreer abonnementen in accounts, zorg dat deze vorige data niet beinvloeden! Voeg datum toe en weergave op hoofd-pagina die filtert op 1 week en 1 dag: "! Te betalen"
- 
-- **Website**
-  - DB integreren, kopieren, publiceren, docs toevoegen.
+<table>
+  <tr>
+    <td align="center" style="vertical-align: top; width: 50%;">
+      <h2>📎 Voortgangsrapportage</h2>
+      <h3>1. 📅 <strong>AI-kalenderintegratie</strong></h3>
+      <p>[Status: Quart-lib decoderen...]</p>
+      <ul>
+        <li>Notion</li>
+        <li>Google</li>
+        <li>ChatGPT</li>
+        <li>browser-extensie</li>
+      </ul>
+      <h3>2. 📹 <strong>AI-youtube-summariser</strong></h3>
+      <p>[Status: Downloader wordt ontwikkeld...]</p>
+      <ul>
+        <li>downloader</li>
+        <li>summarise met ChatGPT+ (geen API)</li>
+        <li>opslaan in folder gebaseerd op kernwoorden</li>
+        <li>relevante data uploaden naar publieke database</li>
+      </ul>
+      <h3>📊 <strong>Notion DB & Website (nog altijd niet geïntegreerd met Github)</strong></h3>
+      <p>[Voortgang: Bezig met het implementeren investeringen-database, abbonementen-database.]</p>
+      <ul>
+        <li><strong>Database</strong>
+          <ul>
+            <li>geef beleggingen weer met "ID", "AMOUNT ID1", "DATE A", "AMOUNT ID2", "DATE ID B", "FINAL AMOUNT"</li>
+            <li>intergreer abonnementen in accounts, zorg dat deze vorige data niet beinvloeden! Voeg datum toe en weergave op hoofd-pagina die filtert op 1 week en 1 dag: "! Te betalen"</li>
+          </ul>
+        </li>
+      </ul>
+      <ul>
+        <li><strong>Publieke Website</strong>
+          <ul>
+            <li>DB integreren, kopieren, publiceren, docs toevoegen.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
