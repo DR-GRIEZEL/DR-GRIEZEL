@@ -1,7 +1,10 @@
 # Glenn Vancauwenberge - Data-Analist en Trading Algoritme Ontwikkelaar
 
 ## Over Mij
-Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, met een sterke focus op netwerkbeveiliging en kwantitatieve analyse. Mijn doel is het ontwikkelen van veilige en efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik. Ik werk ook aan AI-kalenderintegraties en browser-extensies om werkprocessen te automatiseren en te optimaliseren.
+Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, met een sterke focus op netwerkbeveiliging en kwantitatieve analyse. Mijn doel is het ontwikkelen van efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik. 
+
+TODO: Ik werk aan AI-kalenderintegraties en browser-extensies om werkprocessen te automatiseren en te optimaliseren.
+TODO: 
 
 ## Interesses
 - 🔒 **Netwerkbeveiliging**: API-aanroepen, port forwarding, encryptie.
