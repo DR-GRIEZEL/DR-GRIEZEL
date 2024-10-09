@@ -86,7 +86,7 @@ Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
 # Persoonlijke Statistieken
 
 ## GitHub Statistieken
-![Jouwgebruikersnaam's GitHub stats](https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true)
+![DR-GRIEZEL's GitHub stats](https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&theme=gruvbox)
 
 ---
 ## Licentie
