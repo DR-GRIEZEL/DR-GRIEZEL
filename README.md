@@ -21,13 +21,15 @@
   </tr>
 </table>
 
-
+---
 
 <div align="center">
   <a href="https://github.com/DR-GRIEZEL/DR-GRIEZEL">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=DR-GRIEZEL" alt="Readme Card"/>
   </a>
 </div>
+
+---
 
 ## Voortgangsrapportage
 
