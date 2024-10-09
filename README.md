@@ -3,13 +3,13 @@
 ---
 
 ## Over Mij
+
 Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, met een sterke focus op netwerkbeveiliging en kwantitatieve analyse. Mijn doel is het ontwikkelen van efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik. 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=DR-GRIEZEL)](https://github.com/DR-GRIEZEL/DR-GRIEZEL)
 
-https://github.com/DR-GRIEZEL/DR-GRIEZEL
-
 ## Interesses
+
 - 🔒 **Netwerkbeveiliging**: API-aanroepen, port forwarding, encryptie.
 - 🧠 **Machine learning** en **statistische modellen**: mean reversion, Monte Carlo-simulaties, grammaticale evolutie.
 - 📊 **Data-analyse**: **Glassnode**, **DeFi Pulse**
@@ -33,6 +33,7 @@ https://github.com/DR-GRIEZEL/DR-GRIEZEL
 ---
 
 # Projecten
+
 Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
 
 ## 📅 AI Kalender Project 📅
