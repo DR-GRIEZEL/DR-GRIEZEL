@@ -7,6 +7,8 @@ Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=github-readme-stats)](https://github.com/DR-GRIEZEL/DR-GRIEZEL)
 
+https://github.com/DR-GRIEZEL/DR-GRIEZEL
+
 ## Interesses
 - 🔒 **Netwerkbeveiliging**: API-aanroepen, port forwarding, encryptie.
 - 🧠 **Machine learning** en **statistische modellen**: mean reversion, Monte Carlo-simulaties, grammaticale evolutie.
