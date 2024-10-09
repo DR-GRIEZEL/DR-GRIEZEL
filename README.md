@@ -15,14 +15,16 @@ Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, 
 
 ## Voortgangsrapportage
 
-- **AI-kalenderintegratie** (& browser-extensies om werkprocessen te automatiseren en te optimaliseren.)
-  - Lijst
-  - l
-  - l
-- TODO: **AI-youtube-summariser** (voor tijdsbeheer te optimalisere en strategieën te verwerken en documenteren.)
-  - l
-  - l
-  - l
+- **AI-kalenderintegratie** (& browser-extensie om tijdsbeheer te beheren en optimaliseren.)
+  - Notion
+  - Google
+  - ChatGPT
+- TODO: **AI-youtube-summariser** (& ontwikkelen van publieke database voor werkprocessen te automatiseren en strategieën te verwerken en documenteren.)
+  - downloader
+  - summarise met ChatGPT+ (geen API)
+  - opslaan in folder gebaseerd op kernwoorden
+- TODO: **Notion DB**
+  - geef beleggingen weer met "ID", "AMOUNT ID1", "DATE A", "AMOUNT ID2", "DATE ID B", "FINAL AMOUNT"
 
 ---
 
