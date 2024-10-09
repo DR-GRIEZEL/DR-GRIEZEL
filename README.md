@@ -4,37 +4,43 @@
 
 ## Over Mij
 
-Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, met een sterke focus op netwerkbeveiliging en kwantitatieve analyse. Mijn doel is het ontwikkelen van efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik. 
+Ik ben een **data-analist** en ontwikkelaar van geautomatiseerde handelsalgoritmes, met een sterke focus op netwerkbeveiliging en kwantitatieve analyse. Mijn doel is het ontwikkelen van efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik. 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=DR-GRIEZEL)](https://github.com/DR-GRIEZEL/DR-GRIEZEL)
 
 ## Interesses
 
-- 📊 Data-analyse: Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie om marktdynamiek te analyseren.
-- 🔒 Netwerkbeveiliging: Expertise in het beveiligen van netwerken, API-aanroepen, port forwarding, en encryptie voor veilige datastromen.
-- 🔗 API-integratie: Ervaring met het verbinden van API's (o.a. Google, Notion, ChatGPT) voor dataverzameling en -beheer.
-- 🌐 Webontwikkeling en Database-beheer: Beheer van Notion-databases en het bouwen van webpagina's met behulp van HTML, SCSS, en JavaScript. Ontwikkeling van een blogpagina met Cloudflare Workers voor HTTPS/TSL.
-- 🤖 Machine Learning: Focus op het toepassen van machine learning-algoritmes om handelspatronen te voorspellen en data te optimaliseren.
+- 📊 **Data-analyse**: Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie om marktdynamiek te analyseren.
+- 🔒 **Netwerkbeveiliging**: Expertise in het beveiligen van netwerken, API-aanroepen, port forwarding, en encryptie voor veilige datastromen.
+- 🔗 **API-integratie**: Ervaring met het verbinden van API's (o.a. Google, Notion, ChatGPT) voor dataverzameling en -beheer.
+- 🌐 **Webontwikkeling** en **Database-beheer**: Beheer van Notion-databases en het bouwen van webpagina's met behulp van HTML, SCSS, en JavaScript. Ontwikkeling van een blogpagina met Cloudflare Workers voor HTTPS/TSL.
+- 🤖 **Machine Learning**: Focus op het toepassen van machine learning-algoritmes om handelspatronen te voorspellen en data te optimaliseren.
 
 ## Voortgangsrapportage
 
-### 1. **AI-kalenderintegratie** (& browser-extensie om tijdsbeheer te beheren en optimaliseren.)
+### 1. 📅 **AI-kalenderintegratie** (& browser-extensie om tijdsbeheer te beheren en optimaliseren.)
 [Status: Quart-lib decoderen...]
   
   - Notion
   - Google
   - ChatGPT
-### 2. **AI-youtube-summariser** (& ontwikkelen van publieke database voor werkprocessen te automatiseren en strategieën te verwerken en documenteren.)
+
+### 2. 📹 **AI-youtube-summariser** (& ontwikkelen van publieke database voor werkprocessen te automatiseren en strategieën te verwerken en documenteren.)
 [Status: Downloader wordt ontwikkeld...]
   
   - downloader
   - summarise met ChatGPT+ (geen API)
   - opslaan in folder gebaseerd op kernwoorden
-### 3. **Notion DB**
+
+### 3. 📊 **Notion DB & Website**
 [Voortgang: Bezig met het implementeren investeringen-database, abbonementen-database.]
-  
+
+- **DB**
   - geef beleggingen weer met "ID", "AMOUNT ID1", "DATE A", "AMOUNT ID2", "DATE ID B", "FINAL AMOUNT"
   - intergreer abonnementen in accounts, zorg dat deze vorige data niet beinvloeden! Voeg datum toe en weergave op hoofd-pagina die filtert op 1 week en 1 dag: "! Te betalen"
+ 
+- **Website**
+  - DB integreren, kopieren, publiceren, docs toevoegen.
 
 ---
 
