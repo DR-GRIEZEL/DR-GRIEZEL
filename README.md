@@ -5,13 +5,13 @@
 <table>
   <tr>
     <td style="width: 50%; vertical-align: top;">
-      <h2 style="color: #4CAF50;" align="center">Over Mij</h2>
+      <h2 style="color: #4CAF50;" align="center">🧑‍💻 Over Mij</h2>
       <p>Ik ben een <strong>data-analist</strong> met een sterke focus op netwerkbeveiliging en kwantitatieve analyse. Mijn doel is het</p>
       <p></p>ontwikkelen van efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine </p>
       <p>learning, statistische modellen en API-integraties gebruik.</p>
     </td>
     <td style="width: 50%; vertical-align: top;">
-      <h2>Interesses</h2>
+      <h2>🚀 Interesses</h2>
       <ul>
         <li>📊 <strong>Data-analyse</strong>: Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie om marktdynamiek te analyseren.</li>
         <li>🔒 <strong>Netwerkbeveiliging</strong>: Expertise in het beveiligen van netwerken, API-aanroepen, port forwarding, en encryptie voor veilige datastromen.</li>
@@ -33,7 +33,7 @@
 
 ---
 
-# Voortgangsrapportage
+# 📎 Voortgangsrapportage
 
 ### 1. 📅 **AI-kalenderintegratie** (& browser-extensie om tijdsbeheer te beheren en optimaliseren.)
 [Status: Quart-lib decoderen...]
@@ -61,7 +61,7 @@
 
 ---
 
-# Projecten
+# 🎯 Projecten
 
 Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
 
