@@ -4,13 +4,12 @@
 Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, met een sterke focus op netwerkbeveiliging en kwantitatieve analyse. Mijn doel is het ontwikkelen van veilige en efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik. Ik werk ook aan AI-kalenderintegraties en browser-extensies om werkprocessen te automatiseren en te optimaliseren.
 
 ## Interesses
-- 🔒 **Netwerkbeveiliging**, met een focus op veilige API-aanroepen, port forwarding, en integraties met tools zoals Cloudflare.
-- 🧠 **Machine learning** en statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie.
-- 📊 **Data-analyse** met tools zoals **Glassnode** en **DeFi Pulse** voor het maken van datagestuurde investeringsbeslissingen.
-- 🔗 **API-integratie** voor dataverzameling en portfoliobeheer.
-- 🌐 Ontwikkelen van **browser-extensies**.
-- 🛠️ **Back-end en serverontwikkeling**, voor het hosten en automatiseren van API-verzoeken.
-- 🔐 **Encryptie** en beveiliging van persoonlijke en zakelijke gegevens
+- 🔒 **Netwerkbeveiliging**: met een focus op veilige API-aanroepen, port forwarding, encryptie en integraties met tools zoals Cloudflare.
+- 🧠 **Machine learning** en **statistische modellen**: mean reversion, Monte Carlo-simulaties, grammaticale evolutie.
+- 📊 **Data-analyse**:**Glassnode** en **DeFi Pulse** voor het maken van datagestuurde beslissingen.
+- 🔗 **API-integratie**: dataverzameling en databeheer.
+- 🌐 **browser-extensies**:
+- 🛠️ **Back-end en serverontwikkeling**: hosten en automatiseren van API-verzoeken.
 
 # Projecten
 Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
