@@ -44,7 +44,7 @@
 <table>
   <tr>
     <!-- Voortgangsrapportage Sectie -->
-    <td align="center" style="vertical-align: top;">
+    <td align="center" style="vertical-align: top; margin: 0; padding: 0;">
       <h2>📎 Voortgangsrapportage</h2>
       <h3>1. 📅 <strong>AI-kalenderintegratie</strong></h3>
       <p>[Status: Quart-lib decoderen...]</p>
