@@ -5,7 +5,7 @@
 ## Over Mij
 Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, met een sterke focus op netwerkbeveiliging en kwantitatieve analyse. Mijn doel is het ontwikkelen van efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik. 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=github-readme-stats)](https://github.com/DR-GRIEZEL/DR-GRIEZEL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=DR-GRIEZEL)](https://github.com/DR-GRIEZEL/DR-GRIEZEL)
 
 https://github.com/DR-GRIEZEL/DR-GRIEZEL
 
