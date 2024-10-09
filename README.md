@@ -4,7 +4,6 @@
 Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, met een sterke focus op netwerkbeveiliging en kwantitatieve analyse. Mijn doel is het ontwikkelen van veilige en efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik. Ik werk ook aan AI-kalenderintegraties en browser-extensies om werkprocessen te automatiseren en te optimaliseren.
 
 ## Interesses
-- 🤖 Ontwikkelen van geavanceerde **trading-bots** die marktfasen kunnen analyseren en zowel long als short posities kunnen beheren.
 - 🔒 **Netwerkbeveiliging**, met een focus op veilige API-aanroepen, port forwarding, en integraties met tools zoals Cloudflare.
 - 🧠 **Machine learning** en statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie, toegepast in trading-algoritmes.
 - 📊 **Data-analyse** met tools zoals **TradingView**, **Glassnode**, en **DeFi Pulse** voor het maken van datagestuurde investeringsbeslissingen.
@@ -12,7 +11,6 @@ Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, 
 - 🌐 Ontwikkelen van **browser-extensies** om data van websites te verzamelen, en **AI-kalenderprojecten** die Notion en Google Calendar integreren.
 - 🛠️ **Back-end en serverontwikkeling**, met tools zoals **Cloudflare Workers** voor het hosten en automatiseren van API-verzoeken.
 - 🔐 **Encryptie** en beveiliging van persoonlijke en zakelijke gegevens, inclusief het gebruik van Proton voor wachtwoordbeheer en Cloudflare WARP voor systeembeveiliging.
-- 🗂️ **GitHub-projectbeheer**, waar ik werk aan verschillende repositories, zoals **ai-calendar**, **trading-bots**, **snippets**, en **YouTube AI Summary**.
 
 # Projecten
 Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
