@@ -76,7 +76,7 @@ Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
 ## 📅 AI Kalender Project 📅
 
 - **Doel**: Integratie van ChatGPT, Notion en Google Calendar om een AI-aangedreven kalender te creëren.  
-- **Status**: In ontwikkeling  
+- **Status**: Onder ontwikkeling  
 - **Prioriteit**: Hoog  
 - **Repository**: [ai-calendar](https://github.com/dr-griezel/ai-calendar)
 [![Stars](https://img.shields.io/github/stars/dr-griezel/ai-calendar.svg?style=social&label=Star)](https://github.com/dr-griezel/ai-calendar)
@@ -92,7 +92,7 @@ Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
 
 ## 📹 YouTube AI Samenvatting Bot 📹
 - **Doel**: Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI.  
-- **Status**: Actief in ontwikkeling  
+- **Status**: Onder ontwikkeling  
 - **Prioriteit**: Hoog  
 - **Repository**: [youtube-ai-summary](https://github.com/dr-griezel/youtube-ai-summary)
 [![Stars](https://img.shields.io/github/stars/dr-griezel/youtube-ai-summary.svg?style=social&label=Star)](https://github.com/dr-griezel/youtube-ai-summary)
@@ -110,7 +110,7 @@ Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
 
 ## 📚 Notion API Integratie 📚
 - **Doel**: Automatiseren van databasebeheer met Notion API voor tracking van investeringen en uitgaven.  
-- **Status**: Werk in uitvoering  
+- **Status**: Onder ontwikkeling    
 - **Prioriteit**: Gemiddeld  
 - **Repository**: [notion](https://github.com/dr-griezel/notion-api)
 [![Stars](https://img.shields.io/github/stars/dr-griezel/notion-api.svg?style=social&label=Star)](https://github.com/dr-griezel/notion-api)
@@ -118,7 +118,7 @@ Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
 
 ## ⚙️ Code Snippets Project ⚙️
 - **Doel**: Een verzameling handige code snippets voor persoonlijke projecten.  
-- **Status**: Actief  
+- **Status**: ???
 - **Prioriteit**: Laag  
 - **Repository**: [snippets](https://github.com/dr-griezel/code-snippets)
 [![Stars](https://img.shields.io/github/stars/dr-griezel/code-snippets.svg?style=social&label=Star)](https://github.com/dr-griezel/code-snippets)
