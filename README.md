@@ -9,6 +9,11 @@
       <h3>Ik ben een <strong>data-analist</strong> met een sterke focus op <strong>netwerkbeveiliging</strong> en <strong>kwantitatieve analyse.</strong>
       </h3> 
       <p>Mijn doel is het ontwikkelen van efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik.</p>
+      <div align="center">
+        <a href="https://github.com/DR-GRIEZEL/DR-GRIEZEL">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=DR-GRIEZEL" alt="Readme Card"/>
+        </a>
+      </div>
     </td>
     <td align="center" style="vertical-align: top;">
       <h2>🚀 Interesses</h2>
