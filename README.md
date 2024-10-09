@@ -13,10 +13,8 @@
         <a href="https://github.com/DR-GRIEZEL/DR-GRIEZEL">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=DR-GRIEZEL" alt="Readme Card"/>
         </a>
+        <img src="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&theme=gruvbox" alt="GitHub Stats"/>
       </div>
-      <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&theme=gruvbox" alt="GitHub Stats"/>
-      </td>
     </td>
     <td align="center" style="vertical-align: top;">
       <h2>🚀 Interesses</h2>
