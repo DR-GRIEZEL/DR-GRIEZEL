@@ -3,8 +3,8 @@
 ## Over Mij
 Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, met een sterke focus op netwerkbeveiliging en kwantitatieve analyse. Mijn doel is het ontwikkelen van efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik. 
 
-TODO: Ik werk aan AI-kalenderintegraties en browser-extensies om werkprocessen te automatiseren en te optimaliseren.
-TODO: 
+TODO: AI-kalenderintegraties en browser-extensies om werkprocessen te automatiseren en te optimaliseren.
+TODO: AI-youtube-summariser voor tijdsbeheer te optimalisere en strategieën te verwerken en documenteren.
 
 ## Interesses
 - 🔒 **Netwerkbeveiliging**: API-aanroepen, port forwarding, encryptie.
