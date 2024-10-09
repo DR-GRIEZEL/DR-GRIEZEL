@@ -10,12 +10,11 @@ Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, 
 
 ## Interesses
 
-- 📊 **Data-analyse**: **statistische modellen**: mean reversion, Monte Carlo-simulaties, grammaticale evolutie.
-- 🔒 **Netwerkbeveiliging**: API-aanroepen, port forwarding, encryptie.
-- 🔗 **API-integratie**: API-integratie voor dataverzameling en databeheer (Google, Notion, ChatGPT, etc.).
-- 🌐 **Webontwikkeling** en **Database-beheer**: samenstellen en onderhoud van Notion DB en website, Blog-pagina ontwikkeling via Cloudflare Workers: HTTPS/TSL, HTML, SCSS, JS.
-- 🛠️ **Back-end en serverontwikkeling**: hosten en automatiseren van API-verzoeken.
-- 🤖 **Machine Learning**: ???
+- 📊 Data-analyse: Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie om marktdynamiek te analyseren.
+- 🔒 Netwerkbeveiliging: Expertise in het beveiligen van netwerken, API-aanroepen, port forwarding, en encryptie voor veilige datastromen.
+- 🔗 API-integratie: Ervaring met het verbinden van API's (o.a. Google, Notion, ChatGPT) voor dataverzameling en -beheer.
+- 🌐 Webontwikkeling en Database-beheer: Beheer van Notion-databases en het bouwen van webpagina's met behulp van HTML, SCSS, en JavaScript. Ontwikkeling van een blogpagina met Cloudflare Workers voor HTTPS/TSL.
+- 🤖 Machine Learning: Focus op het toepassen van machine learning-algoritmes om handelspatronen te voorspellen en data te optimaliseren.
 
 ## Voortgangsrapportage
 
@@ -29,6 +28,8 @@ Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, 
   - opslaan in folder gebaseerd op kernwoorden
 - TODO: **Notion DB**
   - geef beleggingen weer met "ID", "AMOUNT ID1", "DATE A", "AMOUNT ID2", "DATE ID B", "FINAL AMOUNT"
+
+intergreer abonnementen in accounts, zorg dat deze vorige data niet beinvloeden! Voeg datum toe en weergave op hoofd-pagina die filtert op 1 week en 1 dag: "! Te betalen"
 
 ---
 
