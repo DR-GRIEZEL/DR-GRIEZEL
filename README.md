@@ -1,22 +1,33 @@
 <h1 align="center">Glenn Vancauwenberge - <strong>Data-Analist</strong></h1>
 
-<h2 style="color: #4CAF50;" align="center">Over Mij</h2>
+<table>
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
+      <h2 style="color: #4CAF50;" align="center">Over Mij</h2>
+      <p>Ik ben een <strong>data-analist</strong> met een sterke focus op netwerkbeveiliging en kwantitatieve analyse. Mijn doel is het</p>
+      <p></p>ontwikkelen van efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine </p>
+      <p>learning, statistische modellen en API-integraties gebruik.</p>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <h2>Interesses</h2>
+      <ul>
+        <li>📊 **Data-analyse**: Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie om marktdynamiek te analyseren.</li>
+        <li>🔒 **Netwerkbeveiliging**: Expertise in het beveiligen van netwerken, API-aanroepen, port forwarding, en encryptie voor veilige datastromen.</li>
+        <li>🔗 **API-integratie**: Ervaring met het verbinden van API's (o.a. Google, Notion, ChatGPT) voor dataverzameling en -beheer.</li>
+        <li>🌐 **Webontwikkeling** en **Database-beheer**: Beheer van Notion-databases en het bouwen van webpagina's met behulp van HTML, SCSS, en JavaScript. Ontwikkeling van een blogpagina met Cloudflare Workers voor HTTPS/TSL.</li>
+        <li>🤖 **Machine Learning**: Focus op het toepassen van machine learning-algoritmes om handelspatronen te voorspellen en data te optimaliseren.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-Ik ben een **data-analist** en ontwikkelaar van geautomatiseerde handelsalgoritmes, met een sterke focus op netwerkbeveiliging en kwantitatieve analyse. Mijn doel is het ontwikkelen van efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik. 
+
 
 <div align="center">
   <a href="https://github.com/DR-GRIEZEL/DR-GRIEZEL">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=DR-GRIEZEL" alt="Readme Card"/>
   </a>
 </div>
-
-## Interesses
-
-- 📊 **Data-analyse**: Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie om marktdynamiek te analyseren.
-- 🔒 **Netwerkbeveiliging**: Expertise in het beveiligen van netwerken, API-aanroepen, port forwarding, en encryptie voor veilige datastromen.
-- 🔗 **API-integratie**: Ervaring met het verbinden van API's (o.a. Google, Notion, ChatGPT) voor dataverzameling en -beheer.
-- 🌐 **Webontwikkeling** en **Database-beheer**: Beheer van Notion-databases en het bouwen van webpagina's met behulp van HTML, SCSS, en JavaScript. Ontwikkeling van een blogpagina met Cloudflare Workers voor HTTPS/TSL.
-- 🤖 **Machine Learning**: Focus op het toepassen van machine learning-algoritmes om handelspatronen te voorspellen en data te optimaliseren.
 
 ## Voortgangsrapportage
 
