@@ -20,16 +20,19 @@ Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, 
 
 ### 1. **AI-kalenderintegratie** (& browser-extensie om tijdsbeheer te beheren en optimaliseren.)
 - [Status: Quart-lib decoderen...]
+  
   - Notion
   - Google
   - ChatGPT
 ### 2. **AI-youtube-summariser** (& ontwikkelen van publieke database voor werkprocessen te automatiseren en strategieën te verwerken en documenteren.)
 - [Status: Downloader wordt ontwikkeld...]
+  
   - downloader
   - summarise met ChatGPT+ (geen API)
   - opslaan in folder gebaseerd op kernwoorden
 ### 3. **Notion DB**
 - [Voortgang: Bezig met het implementeren investeringen-database, abbonementen-database.]
+  
   - geef beleggingen weer met "ID", "AMOUNT ID1", "DATE A", "AMOUNT ID2", "DATE ID B", "FINAL AMOUNT"
   - intergreer abonnementen in accounts, zorg dat deze vorige data niet beinvloeden! Voeg datum toe en weergave op hoofd-pagina die filtert op 1 week en 1 dag: "! Te betalen"
 
