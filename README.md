@@ -6,7 +6,8 @@
   <tr>
     <td align="center" style="vertical-align: top;">
       <h2 style="color: #4CAF50;" align="center">🧑‍💻 Over Mij</h2>
-      <h3>Ik ben een <strong>data-analist</strong> met een sterke focus op netwerkbeveiliging en kwantitatieve analyse.</h3> 
+      <h3>Ik ben een <strong>data-analist</strong> met een sterke focus op <strong>netwerkbeveiliging</strong> en <strong>kwantitatieve analyse.</strong>
+      </h3> 
       <p>Mijn doel is het ontwikkelen van efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik.</p>
     </td>
     <td align="center" style="vertical-align: top;">
@@ -15,10 +16,18 @@
         <li>📊 <strong>Data-analyse</strong>: 
           <p>Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie om marktdynamiek te analyseren.</p>
         </li>
-        <li>🔒 <strong>Netwerkbeveiliging</strong>: Expertise in het beveiligen van netwerken, API-aanroepen, port forwarding, en encryptie voor veilige datastromen.</li>
-        <li>🔗 <strong>API-integratie</strong>: Ervaring met het verbinden van API's (o.a. Google, Notion, ChatGPT) voor dataverzameling en -beheer.</li>
-        <li>🌐 <strong>Webontwikkeling</strong> en **Database-beheer**: Beheer van Notion-databases en het bouwen van webpagina's met behulp van HTML, SCSS, en JavaScript. Ontwikkeling van een blogpagina met Cloudflare Workers voor HTTPS/TSL.</li>
-        <li>🤖 <strong>Machine Learning</strong>: Focus op het toepassen van machine learning-algoritmes om handelspatronen te voorspellen en data te optimaliseren.</li>
+        <li>🔒 <strong>Netwerkbeveiliging</strong>: 
+          <p>Expertise in het beveiligen van netwerken, API-aanroepen, port forwarding, en encryptie voor veilige datastromen.</p>
+        </li>
+        <li>🔗 <strong>API-integratie</strong>: 
+          <p>Ervaring met het verbinden van API's (o.a. Google, Notion, ChatGPT) voor dataverzameling en -beheer.</p>
+        </li>
+        <li>🌐 <strong>Webontwikkeling</strong> en **Database-beheer**: 
+        <p>Beheer van Notion-databases en het bouwen van webpagina's met behulp van HTML, SCSS, en JavaScript. Ontwikkeling van een blogpagina met Cloudflare Workers voor HTTPS/TSL.</p>
+        </li>
+        <li>🤖 <strong>Machine Learning</strong>: 
+        <p>Focus op het toepassen van machine learning-algoritmes om handelspatronen te voorspellen en data te optimaliseren.</p>
+        </li>
       </ul>
     </td>
   </tr>
