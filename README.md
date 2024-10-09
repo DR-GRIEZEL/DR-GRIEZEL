@@ -43,49 +43,7 @@
 
 <table>
   <tr>
-    <td align="center" style="vertical-align: top;">
-      <h2>📎 Voortgangsrapportage</h2>
-      <h3>1. 📅 <strong>AI-kalenderintegratie</strong></h3>
-      <p>[Status: Quart-lib decoderen...]</p>
-      <ul>
-        <li>Notion</li>
-        <li>Google</li>
-        <li>ChatGPT</li>
-        <li>browser-extensie</li>
-      </ul>
-      <h3>2. 📹 <strong>AI-youtube-summariser</strong></h3>
-      <p>[Status: Downloader wordt ontwikkeld...]</p>
-      <ul>
-        <li>downloader</li>
-        <li>summarise met ChatGPT+ (geen API)</li>
-        <li>opslaan in folder gebaseerd op kernwoorden</li>
-        <li>relevante data uploaden naar publieke database</li>
-      </ul>
-      <h3>📊 <strong>Notion DB & Website (nog altijd niet geïntegreerd met Github)</strong></h3>
-      <p>[Voortgang: Bezig met het implementeren investeringen-database, abbonementen-database.]</p>
-      <ul>
-        <li><strong>Database</strong>
-          <ul>
-            <li>geef beleggingen weer met "ID", "AMOUNT ID1", "DATE A", "AMOUNT ID2", "DATE ID B", "FINAL AMOUNT"</li>
-            <li>intergreer abonnementen in accounts, zorg dat deze vorige data niet beinvloeden! Voeg datum toe en weergave op hoofd-pagina die filtert op 1 week en 1 dag: "! Te betalen"</li>
-          </ul>
-        </li>
-      </ul>
-      <ul>
-        <li><strong>Publieke Website</strong>
-          <ul>
-            <li>DB integreren, kopieren, publiceren, docs toevoegen.</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-<table>
-  <tr>
+    <!-- Voortgangsrapportage Sectie -->
     <td align="center" style="vertical-align: top; width: 50%;">
       <h2>📎 Voortgangsrapportage</h2>
       <h3>1. 📅 <strong>AI-kalenderintegratie</strong></h3>
@@ -105,111 +63,107 @@
         <li>relevante data uploaden naar publieke database</li>
       </ul>
       <h3>📊 <strong>Notion DB & Website (nog altijd niet geïntegreerd met Github)</strong></h3>
-      <p>[Voortgang: Bezig met het implementeren investeringen-database, abbonementen-database.]</p>
+      <p>[Voortgang: Bezig met het implementeren van investeringen-database, abonnementen-database.]</p>
       <ul>
         <li><strong>Database</strong>
           <ul>
-            <li>geef beleggingen weer met "ID", "AMOUNT ID1", "DATE A", "AMOUNT ID2", "DATE ID B", "FINAL AMOUNT"</li>
-            <li>intergreer abonnementen in accounts, zorg dat deze vorige data niet beinvloeden! Voeg datum toe en weergave op hoofd-pagina die filtert op 1 week en 1 dag: "! Te betalen"</li>
+            <li>Geef beleggingen weer met "ID", "AMOUNT ID1", "DATE A", "AMOUNT ID2", "DATE ID B", "FINAL AMOUNT"</li>
+            <li>Integreer abonnementen in accounts, zorg dat deze vorige data niet beïnvloeden! Voeg datum toe en weergave op hoofd-pagina die filtert op 1 week en 1 dag: "! Te betalen"</li>
+          </ul>
+        </li>
+        <li><strong>Publieke Website</strong>
+          <ul>
+            <li>DB integreren, kopiëren, publiceren, docs toevoegen.</li>
           </ul>
         </li>
       </ul>
+    </td>
+
+    <!-- Projecten Sectie -->
+    <td align="center" style="vertical-align: top; width: 50%;">
+      <h2><strong>🎯 Projecten</strong></h2>
+      <p>Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:</p>
+
+      <!-- Project 1 -->
       <ul>
-        <li><strong>Publieke Website</strong>
+        <li>
+          <h3>📅 AI Kalender Project 📅</h3>
           <ul>
-            <li>DB integreren, kopieren, publiceren, docs toevoegen.</li>
+            <li><strong>Doel</strong>: Integratie van ChatGPT, Notion en Google Calendar om een AI-aangedreven kalender te creëren.</li>
+            <li><strong>Status</strong>: Onder ontwikkeling</li>
+            <li><strong>Prioriteit</strong>: Hoog</li>
+            <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/ai-calendar">ai-calendar</a></li>
+          </ul>
+        </li>
+      </ul>
+
+      <!-- Project 2 -->
+      <ul>
+        <li>
+          <h3>📊 Trading Algoritme voor Crypto 📊</h3>
+          <ul>
+            <li><strong>Doel</strong>: Ontwikkelen van een geautomatiseerd trading-algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.</li>
+            <li><strong>Status</strong>: Onder ontwikkeling</li>
+            <li><strong>Prioriteit</strong>: Hoog</li>
+            <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/trading-bots">trading-bots</a></li>
+          </ul>
+        </li>
+      </ul>
+
+      <!-- Project 3 -->
+      <ul>
+        <li>
+          <h3>📹 YouTube AI Samenvatting Bot 📹</h3>
+          <ul>
+            <li><strong>Doel</strong>: Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI.</li>
+            <li><strong>Status</strong>: Onder ontwikkeling</li>
+            <li><strong>Prioriteit</strong>: Hoog</li>
+            <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/youtube-ai-summary">youtube-ai-summary</a></li>
+          </ul>
+        </li>
+      </ul>
+
+      <!-- Project 4 -->
+      <ul>
+        <li>
+          <h3>📝 GitHub Blog met Cloudflare Integratie 📝</h3>
+          <ul>
+            <li><strong>Doel</strong>: Mijn blog-repository synchroniseren met het sub-domein van Cloudflare Workers.</li>
+            <li><strong>Status</strong>: Onder ontwikkeling</li>
+            <li><strong>Prioriteit</strong>: Gemiddeld</li>
+            <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/blog">blog</a></li>
+          </ul>
+        </li>
+      </ul>
+
+      <!-- Project 5 -->
+      <ul>
+        <li>
+          <h3>📚 Notion API Integratie 📚</h3>
+          <ul>
+            <li><strong>Doel</strong>: Automatiseren van databasebeheer met Notion API voor tracking van investeringen en uitgaven.</li>
+            <li><strong>Status</strong>: Onder ontwikkeling</li>
+            <li><strong>Prioriteit</strong>: Gemiddeld</li>
+            <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/notion-api">notion-api</a></li>
+          </ul>
+        </li>
+      </ul>
+
+      <!-- Project 6 -->
+      <ul>
+        <li>
+          <h3>⚙️ Code Snippets Project ⚙️</h3>
+          <ul>
+            <li><strong>Doel</strong>: Een verzameling handige code snippets voor persoonlijke projecten.</li>
+            <li><strong>Status</strong>: ???</li>
+            <li><strong>Prioriteit</strong>: Laag</li>
+            <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/code-snippets">code-snippets</a></li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
 </table>
-
----
-
-<td align="center" style="vertical-align: top;">
-  <h2><strong>🎯 Projecten</strong></h2>
-  <p>Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:</p>
-
-  <!-- Project 1 -->
-  <ul>
-    <li>
-      <h3>📅 AI Kalender Project 📅</h3>
-      <ul>
-        <li><strong>Doel</strong>: Integratie van ChatGPT, Notion en Google Calendar om een AI-aangedreven kalender te creëren.</li>
-        <li><strong>Status</strong>: Onder ontwikkeling</li>
-        <li><strong>Prioriteit</strong>: Hoog</li>
-        <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/ai-calendar">ai-calendar</a></li>
-      </ul>
-    </li>
-  </ul>
-
-  <!-- Project 2 -->
-  <ul>
-    <li>
-      <h3>📊 Trading Algoritme voor Crypto 📊</h3>
-      <ul>
-        <li><strong>Doel</strong>: Ontwikkelen van een geautomatiseerd trading-algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.</li>
-        <li><strong>Status</strong>: Onder ontwikkeling</li>
-        <li><strong>Prioriteit</strong>: Hoog</li>
-        <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/trading-bots">trading-bots</a></li>
-      </ul>
-    </li>
-  </ul>
-
-  <!-- Project 3 -->
-  <ul>
-    <li>
-      <h3>📹 YouTube AI Samenvatting Bot 📹</h3>
-      <ul>
-        <li><strong>Doel</strong>: Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI.</li>
-        <li><strong>Status</strong>: Onder ontwikkeling</li>
-        <li><strong>Prioriteit</strong>: Hoog</li>
-        <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/youtube-ai-summary">youtube-ai-summary</a></li>
-      </ul>
-    </li>
-  </ul>
-</td>
-
-
-<!-- Project 4 -->
-<ul>
-  <li>
-    <h3>📝 GitHub Blog met Cloudflare Integratie 📝</h3>
-    <ul>
-      <li><strong>Doel</strong>: Mijn blog-repository synchroniseren met het sub-domein van Cloudflare Workers.</li>
-      <li><strong>Status</strong>: Onder ontwikkeling</li>
-      <li><strong>Prioriteit</strong>: Gemiddeld</li>
-      <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/blog">blog</a></li>
-    </ul>
-  </li>
-</ul>
-
-<!-- Project 5 -->
-<ul>
-  <li>
-    <h3>📚 Notion API Integratie 📚</h3>
-    <ul>
-      <li><strong>Doel</strong>: Automatiseren van databasebeheer met Notion API voor tracking van investeringen en uitgaven.</li>
-      <li><strong>Status</strong>: Onder ontwikkeling</li>
-      <li><strong>Prioriteit</strong>: Gemiddeld</li>
-      <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/notion-api">notion-api</a></li>
-    </ul>
-  </li>
-</ul>
-
-<!-- Project 6 -->
-<ul>
-  <li>
-    <h3>⚙️ Code Snippets Project ⚙️</h3>
-    <ul>
-      <li><strong>Doel</strong>: Een verzameling handige code snippets voor persoonlijke projecten.</li>
-      <li><strong>Status</strong>: ???</li>
-      <li><strong>Prioriteit</strong>: Laag</li>
-      <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/code-snippets">code-snippets</a></li>
-    </ul>
-  </li>
-</ul>
 
 ---
 
