@@ -6,7 +6,8 @@
   <tr>
     <td align="center" style="vertical-align: top;">
       <h2 style="color: #4CAF50;" align="center">🧑‍💻 Over Mij</h2>
-      <h3>Ik ben een <strong>data-analist</strong> met een sterke focus op netwerkbeveiliging en kwantitatieve analyse. Mijn doel is het ontwikkelen van efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik.</h3>
+      <h3>Ik ben een <strong>data-analist</strong> met een sterke focus op netwerkbeveiliging en kwantitatieve analyse.</h3> 
+      <p>Mijn doel is het ontwikkelen van efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik.</p>
     </td>
     <td align="center" style="vertical-align: top;">
       <h2>🚀 Interesses</h2>
