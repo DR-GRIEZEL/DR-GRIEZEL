@@ -43,6 +43,49 @@
 
 <table>
   <tr>
+    <td align="center" style="vertical-align: top;">
+      <h2>📎 Voortgangsrapportage</h2>
+      <h3>1. 📅 <strong>AI-kalenderintegratie</strong></h3>
+      <p>[Status: Quart-lib decoderen...]</p>
+      <ul>
+        <li>Notion</li>
+        <li>Google</li>
+        <li>ChatGPT</li>
+        <li>browser-extensie</li>
+      </ul>
+      <h3>2. 📹 <strong>AI-youtube-summariser</strong></h3>
+      <p>[Status: Downloader wordt ontwikkeld...]</p>
+      <ul>
+        <li>downloader</li>
+        <li>summarise met ChatGPT+ (geen API)</li>
+        <li>opslaan in folder gebaseerd op kernwoorden</li>
+        <li>relevante data uploaden naar publieke database</li>
+      </ul>
+      <h3>📊 <strong>Notion DB & Website (nog altijd niet geïntegreerd met Github)</strong></h3>
+      <p>[Voortgang: Bezig met het implementeren investeringen-database, abbonementen-database.]</p>
+      <ul>
+        <li><strong>Database</strong>
+          <ul>
+            <li>geef beleggingen weer met "ID", "AMOUNT ID1", "DATE A", "AMOUNT ID2", "DATE ID B", "FINAL AMOUNT"</li>
+            <li>intergreer abonnementen in accounts, zorg dat deze vorige data niet beinvloeden! Voeg datum toe en weergave op hoofd-pagina die filtert op 1 week en 1 dag: "! Te betalen"</li>
+          </ul>
+        </li>
+      </ul>
+      <ul>
+        <li><strong>Publieke Website</strong>
+          <ul>
+            <li>DB integreren, kopieren, publiceren, docs toevoegen.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<table>
+  <tr>
     <td align="center" style="vertical-align: top; width: 50%;">
       <h2>📎 Voortgangsrapportage</h2>
       <h3>1. 📅 <strong>AI-kalenderintegratie</strong></h3>
@@ -84,34 +127,38 @@
 
 ---
 
-# 🎯 Projecten
-
-Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
-
-## 📅 AI Kalender Project 📅
-
-- **Doel**: Integratie van ChatGPT, Notion en Google Calendar om een AI-aangedreven kalender te creëren.  
-- **Status**: Onder ontwikkeling  
-- **Prioriteit**: Hoog  
-- **Repository**: [ai-calendar](https://github.com/dr-griezel/ai-calendar)
-[![Stars](https://img.shields.io/github/stars/dr-griezel/ai-calendar.svg?style=social&label=Star)](https://github.com/dr-griezel/ai-calendar)
-[![Forks](https://img.shields.io/github/forks/dr-griezel/ai-calendar?style=social)](https://github.com/dr-griezel/ai-calendar/network/members)
-
-## 📊 Trading Algoritme voor Crypto 📊
-- **Doel**: Ontwikkelen van een geautomatiseerd trading-algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.  
-- **Status**: Onder ontwikkeling  
-- **Prioriteit**: Hoog  
-- **Repository**: [trading-bots](https://github.com/dr-griezel/trading-bots)
-[![Stars](https://img.shields.io/github/stars/dr-griezel/trading-bots.svg?style=social&label=Star)](https://github.com/dr-griezel/trading-bots)
-[![Forks](https://img.shields.io/github/forks/dr-griezel/trading-bots?style=social)](https://github.com/dr-griezel/trading-bots/network/members)
-
-## 📹 YouTube AI Samenvatting Bot 📹
-- **Doel**: Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI.  
-- **Status**: Onder ontwikkeling  
-- **Prioriteit**: Hoog  
-- **Repository**: [youtube-ai-summary](https://github.com/dr-griezel/youtube-ai-summary)
-[![Stars](https://img.shields.io/github/stars/dr-griezel/youtube-ai-summary.svg?style=social&label=Star)](https://github.com/dr-griezel/youtube-ai-summary)
-[![Forks](https://img.shields.io/github/forks/dr-griezel/youtube-ai-summary?style=social)](https://github.com/dr-griezel/youtube-ai-summary/network/members)
+<td align="center" style="vertical-align: top;">
+  <h2><strong>🎯 Projecten</strong></h2>
+  <p>Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:</p>
+  <ul>
+    <li><h3>📅 AI Kalender Project 📅</h3>
+      <ul>
+        <li>**Doel**: Integratie van ChatGPT, Notion en Google Calendar om een AI-aangedreven kalender te creëren.</li>
+        <li>**Status**: Onder ontwikkeling </li>
+        <li>**Prioriteit**: Hoog</li>9
+        <li>**Repository**: https://github.com/dr-griezel/ai-calendar</li>
+      </ul>
+    </li>
+  </ul>
+  <ul>
+    <li><h3>📊 Trading Algoritme voor Crypto 📊</h3>
+      <ul>
+        <li>**Doel**: Ontwikkelen van een geautomatiseerd trading-algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.</li>
+        <li>**Status**: Onder ontwikkeling</li>
+        <li>*Prioriteit**: Hoog</li>
+        <li>**Repository**: https://github.com/dr-griezel/trading-bots</li>
+      </ul>
+    </li>
+  </ul>
+  <lu>
+    <li><h3>📊 Trading Algoritme voor Crypto 📊</h3></li>
+      <ul>
+        <li>**Doel**: Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI.</li>
+        <li>**Status**: Onder ontwikkeling</li>
+        <li>**Prioriteit**: Hoog</li>
+        <li>**Repository**: https://github.com/dr-griezel/youtube-ai-summary</li>
+      </ul>
+  </lu>
 
 
 ## 📝 GitHub Blog met Cloudflare Integratie 📝
@@ -119,8 +166,6 @@ Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
 - **Status**: Onder ontwikkeling  
 - **Prioriteit**: Gemiddeld  
 - **Repository**: [blog](https://github.com/dr-griezel/blog)
-[![Stars](https://img.shields.io/github/stars/dr-griezel/blog.svg?style=social&label=Star)](https://github.com/dr-griezel/blog)
-[![Forks](https://img.shields.io/github/forks/dr-griezel/blog?style=social)](https://github.com/dr-griezel/blog/network/members)
 
 
 ## 📚 Notion API Integratie 📚
@@ -128,16 +173,12 @@ Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
 - **Status**: Onder ontwikkeling    
 - **Prioriteit**: Gemiddeld  
 - **Repository**: [notion](https://github.com/dr-griezel/notion-api)
-[![Stars](https://img.shields.io/github/stars/dr-griezel/notion-api.svg?style=social&label=Star)](https://github.com/dr-griezel/notion-api)
-[![Forks](https://img.shields.io/github/forks/dr-griezel/notion-api?style=social)](https://github.com/dr-griezel/notion-api/network/members)
 
 ## ⚙️ Code Snippets Project ⚙️
 - **Doel**: Een verzameling handige code snippets voor persoonlijke projecten.  
 - **Status**: ???
 - **Prioriteit**: Laag  
 - **Repository**: [snippets](https://github.com/dr-griezel/code-snippets)
-[![Stars](https://img.shields.io/github/stars/dr-griezel/code-snippets.svg?style=social&label=Star)](https://github.com/dr-griezel/code-snippets)
-[![Forks](https://img.shields.io/github/forks/dr-griezel/code-snippets?style=social)](https://github.com/dr-griezel/code-snippets/network/members)
 
 ---
 
