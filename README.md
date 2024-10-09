@@ -5,12 +5,12 @@ Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, 
 
 ## Interesses
 - 🔒 **Netwerkbeveiliging**, met een focus op veilige API-aanroepen, port forwarding, en integraties met tools zoals Cloudflare.
-- 🧠 **Machine learning** en statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie, toegepast in trading-algoritmes.
-- 📊 **Data-analyse** met tools zoals **TradingView**, **Glassnode**, en **DeFi Pulse** voor het maken van datagestuurde investeringsbeslissingen.
-- 🔗 **API-integratie** voor dataverzameling en portfoliobeheer, met synchronisatie van accounts via de Bitvavo API en Notion.
-- 🌐 Ontwikkelen van **browser-extensies** om data van websites te verzamelen, en **AI-kalenderprojecten** die Notion en Google Calendar integreren.
-- 🛠️ **Back-end en serverontwikkeling**, met tools zoals **Cloudflare Workers** voor het hosten en automatiseren van API-verzoeken.
-- 🔐 **Encryptie** en beveiliging van persoonlijke en zakelijke gegevens, inclusief het gebruik van Proton voor wachtwoordbeheer en Cloudflare WARP voor systeembeveiliging.
+- 🧠 **Machine learning** en statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie.
+- 📊 **Data-analyse** met tools zoals **Glassnode** en **DeFi Pulse** voor het maken van datagestuurde investeringsbeslissingen.
+- 🔗 **API-integratie** voor dataverzameling en portfoliobeheer.
+- 🌐 Ontwikkelen van **browser-extensies**.
+- 🛠️ **Back-end en serverontwikkeling**, voor het hosten en automatiseren van API-verzoeken.
+- 🔐 **Encryptie** en beveiliging van persoonlijke en zakelijke gegevens
 
 # Projecten
 Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
