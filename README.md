@@ -12,7 +12,9 @@
     <td align="center" style="vertical-align: top;">
       <h2>🚀 Interesses</h2>
       <ul>
-        <li>📊 <strong>Data-analyse</strong>: Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie om marktdynamiek te analyseren.</li>
+        <li>📊 <strong>Data-analyse</strong>: 
+          <p>Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie om marktdynamiek te analyseren.</p>
+        </li>
         <li>🔒 <strong>Netwerkbeveiliging</strong>: Expertise in het beveiligen van netwerken, API-aanroepen, port forwarding, en encryptie voor veilige datastromen.</li>
         <li>🔗 <strong>API-integratie</strong>: Ervaring met het verbinden van API's (o.a. Google, Notion, ChatGPT) voor dataverzameling en -beheer.</li>
         <li>🌐 <strong>Webontwikkeling</strong> en **Database-beheer**: Beheer van Notion-databases en het bouwen van webpagina's met behulp van HTML, SCSS, en JavaScript. Ontwikkeling van een blogpagina met Cloudflare Workers voor HTTPS/TSL.</li>
