@@ -14,6 +14,9 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=DR-GRIEZEL" alt="Readme Card"/>
         </a>
       </div>
+      <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&theme=gruvbox" alt="GitHub Stats"/>
+      </td>
     </td>
     <td align="center" style="vertical-align: top;">
       <h2>🚀 Interesses</h2>
@@ -37,14 +40,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<div align="center">
-  <a href="https://github.com/DR-GRIEZEL/DR-GRIEZEL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=DR-GRIEZEL" alt="Readme Card"/>
-  </a>
-</div>
 
 ---
 
@@ -133,11 +128,5 @@ Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
 
 ---
 
-# Persoonlijke Statistieken
-
-## GitHub Statistieken
-![DR-GRIEZEL's GitHub stats](https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&theme=gruvbox)
-
----
 ## Licentie
 Dit project wordt gedistribueerd onder de MIT-licentie. Zie het bestand LICENSE voor details.
