@@ -10,12 +10,12 @@ Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, 
 
 ## Interesses
 
+- 📊 **Data-analyse**: **statistische modellen**: mean reversion, Monte Carlo-simulaties, grammaticale evolutie.
 - 🔒 **Netwerkbeveiliging**: API-aanroepen, port forwarding, encryptie.
-- 🧠 **Machine learning** en **statistische modellen**: mean reversion, Monte Carlo-simulaties, grammaticale evolutie.
-- 📊 **Data-analyse**: **Glassnode**, **DeFi Pulse**
-- 🔗 **API-integratie**: dataverzameling en databeheer.
-- 🌐 **Webontwikkeling**: Beheren van Notion DB, Notion website, Cloudflare Workers. HTTPS/TSL, netwerkbeheer, HTML, SCSS, JS.
+- 🔗 **API-integratie**: API-integratie voor dataverzameling en databeheer (Google, Notion, ChatGPT, etc.).
+- 🌐 **Webontwikkeling** en **Database-beheer**: samenstellen en onderhoud van Notion DB en website, Blog-pagina ontwikkeling via Cloudflare Workers: HTTPS/TSL, HTML, SCSS, JS.
 - 🛠️ **Back-end en serverontwikkeling**: hosten en automatiseren van API-verzoeken.
+- 🤖 **Machine Learning**: ???
 
 ## Voortgangsrapportage
 
