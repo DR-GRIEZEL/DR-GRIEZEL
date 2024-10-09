@@ -1,4 +1,6 @@
-# Glenn Vancauwenberge - Data-Analist
+# Glenn Vancauwenberge - **Data-Analist**
+
+---
 
 ## Over Mij
 Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, met een sterke focus op netwerkbeveiliging en kwantitatieve analyse. Mijn doel is het ontwikkelen van efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik. 
@@ -13,6 +15,8 @@ TODO: AI-youtube-summariser voor tijdsbeheer te optimalisere en strategieën te 
 - 🔗 **API-integratie**: dataverzameling en databeheer.
 - 🌐 **Webontwikkeling**: Beheren van Notion DB, Notion website, Cloudflare Workers. HTTPS/TSL, netwerkbeheer, HTML, SCSS, JS.
 - 🛠️ **Back-end en serverontwikkeling**: hosten en automatiseren van API-verzoeken.
+
+---
 
 # Projecten
 Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
@@ -67,6 +71,7 @@ Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
 [![Stars](https://img.shields.io/github/stars/dr-griezel/code-snippets.svg?style=social&label=Star)](https://github.com/dr-griezel/code-snippets)
 [![Forks](https://img.shields.io/github/forks/dr-griezel/code-snippets?style=social)](https://github.com/dr-griezel/code-snippets/network/members)
 
+---
 
 # Persoonlijke Statistieken
 
