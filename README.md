@@ -89,14 +89,14 @@
             <li><strong>Status</strong>: Onder ontwikkeling</li>
             <li><strong>Prioriteit</strong>: Hoog</li>
             <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/ai-calendar">ai-calendar</a></li>
-            <div align="center">
-              <a href="https://github.com/DR-GRIEZEL/DR-GRIEZEL">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=DR-GRIEZEL" alt="Readme Card" style="max-width: 100%; height: auto;"/>
-              </a>
-            </div>
           </ol>
         </li>
       </ul>
+        <div align="center">
+          <a href="https://github.com/DR-GRIEZEL/DR-GRIEZEL">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=ai-calenda" alt="ai-calendar" style="height: auto;"/>
+          </a>
+        </div>
       <!-- Project 2 -->
       <ul>
         <li>
