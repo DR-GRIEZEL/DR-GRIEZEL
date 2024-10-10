@@ -19,19 +19,19 @@
     <td align="center" style="vertical-align: top;">
       <h2>🚀 Interesses</h2>
       <ul>
-        <li><h3>📊 <strong>Data-analyse</strong></h3>: 
+        <li><h3>📊 <strong>Data-analyse:</strong></h3>
           <p>Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie om marktdynamiek te analyseren.</p>
         </li>
-        <li><h3>🔒 <strong>Netwerkbeveiliging</strong></h3>: 
+        <li><h3>🔒 <strong>Netwerkbeveiliging:</strong></h3>
           <p>Expertise in het beveiligen van netwerken, API-aanroepen, port forwarding, en encryptie voor veilige datastromen.</p>
         </li>
-        <li><h3>🔗 <strong>API-integratie</strong></h3>: 
+        <li><h3>🔗 <strong>API-integratie:</strong></h3>
           <p>Ervaring met het verbinden van API's (o.a. Google, Notion, ChatGPT) voor dataverzameling en -beheer.</p>
         </li>
-        <li><h3>🌐 <strong>Webontwikkeling</strong> en <strong>Database-beheer</strong></h3>: 
+        <li><h3>🌐 <strong>Webontwikkeling</strong> en <strong>Database-beheer:</strong></h3>
         <p>Beheer van Notion-databases en het bouwen van webpagina's met behulp van XHTML, SCSS, en JavaScript. Ontwikkeling van een blogpagina met Cloudflare Workers voor HTTPS/TSL.</p>
         </li>
-        <li><h3>🤖 <strong>Machine Learning</strong></h3>: 
+        <li><h3>🤖 <strong>Machine Learning:</strong></h3>
         <p>Focus op het toepassen van machine learning-algoritmes om handelspatronen te voorspellen en data te optimaliseren</p>
         </li>
       </ul>
