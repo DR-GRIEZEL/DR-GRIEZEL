@@ -1,78 +1,183 @@
-# Glenn Vancauwenberge - Data-Analist en Trading Algoritme Ontwikkelaar
+<h1 align="center"">Glenn Vancauwenberge - <strong>Data-Analist</strong></h1>
 
-## Over Mij
-Ik ben een data-analist en ontwikkelaar van geautomatiseerde handelsalgoritmes, met een sterke focus op netwerkbeveiliging en kwantitatieve analyse. Mijn doel is het ontwikkelen van veilige en efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik. Ik werk ook aan AI-kalenderintegraties en browser-extensies om werkprocessen te automatiseren en te optimaliseren.
+![Hero Image](https://img.freepik.com/free-vector/vector-abstract-colorful-big-data-visualization-futuristic-infographics-aesthetic-design-visual-information-complexity-intricate-data-threads-graphic-social-network-business-analytics_1217-2428.jpg?t=st=1728511444~exp=1728515044~hmac=5da0995a985e0e1194aba1c35b1562a00066ead445c8edbc580c4b97c66ee553&w=900)
 
-## Interesses
-- 🤖 Ontwikkelen van geavanceerde **trading-bots** die marktfasen kunnen analyseren en zowel long als short posities kunnen beheren.
-- 🔒 **Netwerkbeveiliging**, met een focus op veilige API-aanroepen, port forwarding, en integraties met tools zoals Cloudflare.
-- 🧠 **Machine learning** en statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie, toegepast in trading-algoritmes.
-- 📊 **Data-analyse** met tools zoals **TradingView**, **Glassnode**, en **DeFi Pulse** voor het maken van datagestuurde investeringsbeslissingen.
-- 🔗 **API-integratie** voor dataverzameling en portfoliobeheer, met synchronisatie van accounts via de Bitvavo API en Notion.
-- 🌐 Ontwikkelen van **browser-extensies** om data van websites te verzamelen, en **AI-kalenderprojecten** die Notion en Google Calendar integreren.
-- 🛠️ **Back-end en serverontwikkeling**, met tools zoals **Cloudflare Workers** voor het hosten en automatiseren van API-verzoeken.
-- 🔐 **Encryptie** en beveiliging van persoonlijke en zakelijke gegevens, inclusief het gebruik van Proton voor wachtwoordbeheer en Cloudflare WARP voor systeembeveiliging.
-- 🗂️ **GitHub-projectbeheer**, waar ik werk aan verschillende repositories, zoals **ai-calendar**, **trading-bots**, **snippets**, en **YouTube AI Summary**.
+<table>
+  <tr>
+    <td align="left" style="vertical-align: top;">
+      <h2 align="center">🧑‍💻 Over Mij</h2>
+      <h3>Ik ben een <strong>data-analist</strong> met een sterke focus op <strong>netwerkbeveiliging</strong> en <strong>kwantitatieve analyse.</strong>
+      </h3> 
+      <p>Mijn doel is het ontwikkelen van efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik.</p>
+      <div align="center">
+        <a href="https://github.com/DR-GRIEZEL/DR-GRIEZEL">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=DR-GRIEZEL" alt="Readme Card" style="max-width: 100%; height: auto;"/>
+        </a>
+        <img src="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&theme=gruvbox" alt="GitHub Stats" style="max-width: 100%; height: auto;"/>
+      </div>
+    </td>
+    <td align="left" style="vertical-align: top;">
+      <h2 align="center">🚀 Interesses</h2>
+      <ol>
+        <li><h3>📊 <strong>Data-analyse:</strong></h3>
+          <p>Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie om marktdynamiek te analyseren.</p>
+        </li>
+        <li><h3>🔒 <strong>Netwerkbeveiliging:</strong></h3>
+          <p>Expertise in het beveiligen van netwerken, API-aanroepen, port forwarding, en encryptie voor veilige datastromen.</p>
+        </li>
+        <li><h3>🔗 <strong>API-integratie:</strong></h3>
+          <p>Ervaring met het verbinden van API's (o.a. Google, Notion, ChatGPT) voor dataverzameling en -beheer.</p>
+        </li>
+        <li><h3>🌐 <strong>Webontwikkeling</strong> en <strong>Database-beheer:</strong></h3>
+        <p>Beheer van Notion-databases en het bouwen van webpagina's met behulp van XHTML, SCSS, en JavaScript. Ontwikkeling van een blogpagina met Cloudflare Workers voor HTTPS/TSL.</p>
+        </li>
+        <li><h3>🤖 <strong>Machine Learning:</strong></h3>
+        <p>Focus op het toepassen van machine learning-algoritmes om handelspatronen te voorspellen en data te optimaliseren</p>
+        </li>
+      </ol>
+    </td>
+  </tr>
+</table>
 
-# Projecten
-Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:
-
-## 📅 AI Kalender Project 📅
-- **Doel**: Integratie van ChatGPT, Notion en Google Calendar om een AI-aangedreven kalender te creëren.  
-- **Status**: In ontwikkeling  
-- **Prioriteit**: Hoog  
-- **Repository**: [ai-calendar](https://github.com/dr-griezel/ai-calendar)
-[![Stars](https://img.shields.io/github/stars/dr-griezel/ai-calendar.svg?style=social&label=Star)](https://github.com/dr-griezel/ai-calendar)
-[![Forks](https://img.shields.io/github/forks/dr-griezel/ai-calendar?style=social)](https://github.com/dr-griezel/ai-calendar/network/members)
-
-## 📊 Trading Algoritme voor Crypto 📊
-- **Doel**: Ontwikkelen van een geautomatiseerd trading-algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.  
-- **Status**: Onder ontwikkeling  
-- **Prioriteit**: Hoog  
-- **Repository**: [trading-bots](https://github.com/dr-griezel/trading-bots)
-[![Stars](https://img.shields.io/github/stars/dr-griezel/trading-bots.svg?style=social&label=Star)](https://github.com/dr-griezel/trading-bots)
-[![Forks](https://img.shields.io/github/forks/dr-griezel/trading-bots?style=social)](https://github.com/dr-griezel/trading-bots/network/members)
-
-## 📹 YouTube AI Samenvatting Bot 📹
-- **Doel**: Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI.  
-- **Status**: Actief in ontwikkeling  
-- **Prioriteit**: Hoog  
-- **Repository**: [youtube-ai-summary](https://github.com/dr-griezel/youtube-ai-summary)
-[![Stars](https://img.shields.io/github/stars/dr-griezel/youtube-ai-summary.svg?style=social&label=Star)](https://github.com/dr-griezel/youtube-ai-summary)
-[![Forks](https://img.shields.io/github/forks/dr-griezel/youtube-ai-summary?style=social)](https://github.com/dr-griezel/youtube-ai-summary/network/members)
-
-
-## 📝 GitHub Blog met Cloudflare Integratie 📝
-- **Doel**: Mijn blog-repository synchroniseren met het sub-deomein van Cloudflare Workers.  
-- **Status**: Onder ontwikkeling  
-- **Prioriteit**: Gemiddeld  
-- **Repository**: [blog](https://github.com/dr-griezel/blog)
-[![Stars](https://img.shields.io/github/stars/dr-griezel/blog.svg?style=social&label=Star)](https://github.com/dr-griezel/blog)
-[![Forks](https://img.shields.io/github/forks/dr-griezel/blog?style=social)](https://github.com/dr-griezel/blog/network/members)
-
-
-## 📚 Notion API Integratie 📚
-- **Doel**: Automatiseren van databasebeheer met Notion API voor tracking van investeringen en uitgaven.  
-- **Status**: Werk in uitvoering  
-- **Prioriteit**: Gemiddeld  
-- **Repository**: [notion](https://github.com/dr-griezel/notion-api)
-[![Stars](https://img.shields.io/github/stars/dr-griezel/notion-api.svg?style=social&label=Star)](https://github.com/dr-griezel/notion-api)
-[![Forks](https://img.shields.io/github/forks/dr-griezel/notion-api?style=social)](https://github.com/dr-griezel/notion-api/network/members)
-
-## ⚙️ Code Snippets Project ⚙️
-- **Doel**: Een verzameling handige code snippets voor persoonlijke projecten.  
-- **Status**: Actief  
-- **Prioriteit**: Laag  
-- **Repository**: [snippets](https://github.com/dr-griezel/code-snippets)
-[![Stars](https://img.shields.io/github/stars/dr-griezel/code-snippets.svg?style=social&label=Star)](https://github.com/dr-griezel/code-snippets)
-[![Forks](https://img.shields.io/github/forks/dr-griezel/code-snippets?style=social)](https://github.com/dr-griezel/code-snippets/network/members)
-
-
-# Persoonlijke Statistieken
-
-## GitHub Statistieken
-![Jouwgebruikersnaam's GitHub stats](https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true)
-
----
-## Licentie
-Dit project wordt gedistribueerd onder de MIT-licentie. Zie het bestand LICENSE voor details.
+<table>
+  <tr>
+    <!-- Voortgangsrapportage Sectie -->
+    <td align="left" style="vertical-align: top;">
+      <h2 align="center">📎 Voortgangsrapportage</h2>
+      <h3>📅 <strong>AI-kalenderintegratie</strong></h3>
+      <p>[Status: Quart-lib decoderen...]</p>
+      <ol>
+        <li>Notion</li>
+        <li>Google</li>
+        <li>ChatGPT</li>
+        <li>browser-extensie</li>
+      </ol>
+      <h3>📹 <strong>AI-youtube-summariser</strong></h3>
+      <p>[Status: Downloader wordt ontwikkeld...]</p>
+      <ol>
+        <li>downloader</li>
+        <li>summarise met ChatGPT+ (geen API)</li>
+        <li>opslaan in folder gebaseerd op kernwoorden</li>
+        <li>relevante data uploaden naar publieke database</li>
+      </ol>
+      <h3>📊 <strong>Notion DB & Website (nog altijd niet geïntegreerd met Github)</strong></h3>
+      <p>[Voortgang: Bezig met het implementeren van investeringen-database, abonnementen-database.]</p>
+      <ol>
+        <li><strong>Database</strong>
+          <ol>
+            <li>Geef beleggingen weer met "ID", "AMOUNT ID1", "DATE A", "AMOUNT ID2", "DATE ID B", "FINAL AMOUNT"</li>
+            <li>Integreer abonnementen in accounts, zorg dat deze vorige data niet beïnvloeden! Voeg datum toe en weergave op hoofd-pagina die filtert op 1 week en 1 dag: "! Te betalen"</li>
+          </ol>
+        </li>
+        <li><strong>Publieke Website</strong>
+          <ol>
+            <li>DB integreren, kopiëren, publiceren, docs toevoegen.</li>
+          </ol>
+        </li>
+      </ol>
+    </td>
+    <!-- Projecten Sectie -->
+    <td align="left" style="vertical-align: top;">
+      <h2 align="center"><strong>🎯 Projecten</strong></h2>
+      <p>Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:</p>
+      <!-- Project 1 -->
+      <ul>
+        <li>
+          <h3>📅 AI Kalender Project</h3>
+          <ol>
+            <img src="https://img.shields.io/badge/Prioriteit-High-red" alt="High Priority">
+            <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status: In Progress">
+            <strong>Beschrijving:</strong> Integratie van ChatGPT, Notion en Google Calendar om een AI-aangedreven kalender te creëren.</p>
+          </ol>
+        </li>
+      </ul>
+        <div align="center">
+          <a href="https://github.com/DR-GRIEZEL/ai-calendar">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=ai-calendar" alt="ai-calendar" style="height: auto;"/>
+          </a>
+        </div>
+      <!-- Project 2 -->
+      <ul>
+        <li>
+          <h3>📊 Trading Algoritme voor Crypto</h3>
+          <ol>
+            <img src="https://img.shields.io/badge/Prioriteit-High-red" alt="High Priority">
+            <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status: In Progress">
+            <p><strong>Beschrijving:</strong> Ontwikkelen van een geautomatiseerd trading-algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.</p>
+          </ol>
+        </li>
+      </ul>
+        <div align="center">
+          <a href="https://github.com/DR-GRIEZEL/trading-bots">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=trading-bots" alt="trading-bots" style="height: auto;"/>
+          </a>
+        </div>
+      <!-- Project 3 -->
+      <ul>
+        <li>
+          <h3>📹 YouTube AI Samenvatting Bot</h3>
+          <ol>
+            <img src="https://img.shields.io/badge/Prioriteit-High-red" alt="High Priority">
+            <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status: In Progress">
+            <p><strong>Beschrijving:</strong> Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI.</p>
+          </ol>
+        </li>
+      </ul>
+        <div align="center">
+          <a href="https://github.com/DR-GRIEZEL/youtube-ai-summary">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=youtube-ai-summary" alt="youtube-ai-summary" style="height: auto;"/>
+          </a>
+        </div>
+      <!-- Project 4 -->
+      <ul>
+        <li>
+          <h3>🌐 GitHub Blog met Cloudflare Integratie</h3>
+          <ol>
+            <img src="https://img.shields.io/badge/Prioriteit-Medium-yellow" alt="Medium Priority"></li>
+            <img src="https://img.shields.io/badge/Status-On%20Hold-orange" alt="Status: On Hold">
+            <p><strong>Beschrijving:</strong> blog-repository synchroniseren met het sub-domein van Cloudflare Workers.</p>
+          </ol>
+        </li>
+      </ul>
+        <div align="center">
+          <a href="https://github.com/DR-GRIEZEL/blog">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=blog" alt="blog" style="height: auto;"/>
+          </a>
+        </div>
+      <!-- Project 5 -->
+      <ul>
+        <li>
+          <h3>🔗 Notion API Integratie</h3>
+          <ol>
+            <img src="https://img.shields.io/badge/Prioriteit-Low-green" alt="Low Priority"></li>
+            <img src="https://img.shields.io/badge/Status-On%20Hold-orange" alt="Status: On Hold">
+            <p><strong>Beschrijving:</strong> Automatiseren van databasebeheer met Notion API voor tracking van investeringen en uitgaven.</p>
+          </ol>
+        </li>
+      </ul>
+        <div align="center">
+          <a href="https://github.com/DR-GRIEZEL/notion-api">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=notion-api" alt="notion-api" style="height: auto;"/>
+          </a>
+        </div>
+      <!-- Project 6 -->
+      <ul>
+        <li>
+          <h3>⚙️ Code Snippets Project</h3>
+          <ol>
+            <img src="https://img.shields.io/badge/Prioriteit-Low-green" alt="Low Priority"></li>
+            <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status: Active">
+            <p><strong>Beschrijving:</strong> Een verzameling handige code snippets voor persoonlijke projecten.</p>
+          </ol>
+        </li>
+      </ul>
+        <div align="center">
+          <a href="https://github.com/DR-GRIEZEL/code-snippets">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=ncode-snippets" alt="code-snippets" style="height: auto;"/>
+          </a>
+        </div>
+    </td>
+  </tr>
+</table>
+<h3>Licentie</h3>
+<p>Dit project wordt gedistribueerd onder de MIT-licentie. Zie het bestand LICENSE voor details.</p>
