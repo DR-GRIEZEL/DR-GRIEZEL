@@ -1,5 +1,4 @@
-<body style="background-color: #0d1117; color: #00ff00;">
-<h1 align="center" style="color: #00ff00;">Glenn Vancauwenberge - <strong>Data-Analist</strong></h1>
+<h1 align="center"">Glenn Vancauwenberge - <strong>Data-Analist</strong></h1>
 
 ![Hero Image](https://img.freepik.com/free-vector/vector-abstract-colorful-big-data-visualization-futuristic-infographics-aesthetic-design-visual-information-complexity-intricate-data-threads-graphic-social-network-business-analytics_1217-2428.jpg?t=st=1728511444~exp=1728515044~hmac=5da0995a985e0e1194aba1c35b1562a00066ead445c8edbc580c4b97c66ee553&w=900)
 
@@ -20,20 +19,20 @@
     <td align="center" style="vertical-align: top;">
       <h2>🚀 Interesses</h2>
       <ul>
-        <li>📊 <strong>Data-analyse</strong>: 
+        <li><h3>📊 <strong>Data-analyse</strong></h3>: 
           <p>Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie om marktdynamiek te analyseren.</p>
         </li>
-        <li>🔒 <strong>Netwerkbeveiliging</strong>: 
+        <li><h3>🔒 <strong>Netwerkbeveiliging</strong></h3>: 
           <p>Expertise in het beveiligen van netwerken, API-aanroepen, port forwarding, en encryptie voor veilige datastromen.</p>
         </li>
-        <li>🔗 <strong>API-integratie</strong>: 
+        <li><h3>🔗 <strong>API-integratie</strong></h3>: 
           <p>Ervaring met het verbinden van API's (o.a. Google, Notion, ChatGPT) voor dataverzameling en -beheer.</p>
         </li>
-        <li>🌐 <strong>Webontwikkeling</strong> en **Database-beheer**: 
+        <li><h3>🌐 <strong>Webontwikkeling</strong> en <strong>Database-beheer</strong></h3>: 
         <p>Beheer van Notion-databases en het bouwen van webpagina's met behulp van XHTML, SCSS, en JavaScript. Ontwikkeling van een blogpagina met Cloudflare Workers voor HTTPS/TSL.</p>
         </li>
-        <li>🤖 <strong>Machine Learning</strong>: 
-        <p>Focus op het toepassen van machine learning-algoritmes om handelspatronen te voorspellen en data te optimaliseren.</p>
+        <li><h3>🤖 <strong>Machine Learning</strong></h3>: 
+        <p>Focus op het toepassen van machine learning-algoritmes om handelspatronen te voorspellen en data te optimaliseren</p>
         </li>
       </ul>
     </td>
