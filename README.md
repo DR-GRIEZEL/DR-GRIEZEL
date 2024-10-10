@@ -39,8 +39,6 @@
   </tr>
 </table>
 
----
-
 <table style="border="0">
   <tr>
     <!-- Voortgangsrapportage Sectie -->
