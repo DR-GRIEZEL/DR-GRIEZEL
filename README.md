@@ -18,7 +18,7 @@
     </td>
     <td align="left" style="vertical-align: top;">
       <h2 align="center">🚀 Interesses</h2>
-      <ul>
+      <ol>
         <li><h3>1. 📊 <strong>Data-analyse:</strong></h3>
           <p>Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie om marktdynamiek te analyseren.</p>
         </li>
@@ -46,7 +46,7 @@
       <h2 align="center">📎 Voortgangsrapportage</h2>
       <h3>1. 📅 <strong>AI-kalenderintegratie</strong></h3>
       <p>[Status: Quart-lib decoderen...]</p>
-      <ul>
+      <ol>
         <li>Notion</li>
         <li>Google</li>
         <li>ChatGPT</li>
@@ -54,7 +54,7 @@
       </ul>
       <h3>2. 📹 <strong>AI-youtube-summariser</strong></h3>
       <p>[Status: Downloader wordt ontwikkeld...]</p>
-      <ul>
+      <ol>
         <li>downloader</li>
         <li>summarise met ChatGPT+ (geen API)</li>
         <li>opslaan in folder gebaseerd op kernwoorden</li>
@@ -62,15 +62,15 @@
       </ul>
       <h3>3. 📊 <strong>Notion DB & Website (nog altijd niet geïntegreerd met Github)</strong></h3>
       <p>[Voortgang: Bezig met het implementeren van investeringen-database, abonnementen-database.]</p>
-      <ul>
+      <ol>
         <li><strong>Database</strong>
-          <ul>
+          <ol>
             <li>Geef beleggingen weer met "ID", "AMOUNT ID1", "DATE A", "AMOUNT ID2", "DATE ID B", "FINAL AMOUNT"</li>
             <li>Integreer abonnementen in accounts, zorg dat deze vorige data niet beïnvloeden! Voeg datum toe en weergave op hoofd-pagina die filtert op 1 week en 1 dag: "! Te betalen"</li>
           </ul>
         </li>
         <li><strong>Publieke Website</strong>
-          <ul>
+          <ol>
             <li>DB integreren, kopiëren, publiceren, docs toevoegen.</li>
           </ul>
         </li>
@@ -81,10 +81,10 @@
       <h2 align="center"><strong>🎯 Projecten</strong></h2>
       <p>Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:</p>
       <!-- Project 1 -->
-      <ul>
+      <ol>
         <li>
           <h3>1. 📅 AI Kalender Project</h3>
-          <ul>
+          <ol>
             <li><strong>Doel</strong>: Integratie van ChatGPT, Notion en Google Calendar om een AI-aangedreven kalender te creëren.</li>
             <li><strong>Status</strong>: Onder ontwikkeling</li>
             <li><strong>Prioriteit</strong>: Hoog</li>
@@ -93,10 +93,10 @@
         </li>
       </ul>
       <!-- Project 2 -->
-      <ul>
+      <ol>
         <li>
           <h3>2. 📊 Trading Algoritme voor Crypto</h3>
-          <ul>
+          <ol>
             <li><strong>Doel</strong>: Ontwikkelen van een geautomatiseerd trading-algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.</li>
             <li><strong>Status</strong>: Onder ontwikkeling</li>
             <li><strong>Prioriteit</strong>: Hoog</li>
@@ -105,10 +105,10 @@
         </li>
       </ul>
       <!-- Project 3 -->
-      <ul>
+      <ol>
         <li>
           <h3>3. 📹 YouTube AI Samenvatting Bot</h3>
-          <ul>
+          <ol>
             <li><strong>Doel</strong>: Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI.</li>
             <li><strong>Status</strong>: Onder ontwikkeling</li>
             <li><strong>Prioriteit</strong>: Hoog</li>
@@ -117,10 +117,10 @@
         </li>
       </ul>
       <!-- Project 4 -->
-      <ul>
+      <ol>
         <li>
           <h3>4. 📝 GitHub Blog met Cloudflare Integratie</h3>
-          <ul>
+          <ol>
             <li><strong>Doel</strong>: Mijn blog-repository synchroniseren met het sub-domein van Cloudflare Workers.</li>
             <li><strong>Status</strong>: Onder ontwikkeling</li>
             <li><strong>Prioriteit</strong>: Gemiddeld</li>
@@ -129,10 +129,10 @@
         </li>
       </ul>
       <!-- Project 5 -->
-      <ul>
+      <ol>
         <li>
           <h3>5. 📚 Notion API Integratie</h3>
-          <ul>
+          <ol>
             <li><strong>Doel</strong>: Automatiseren van databasebeheer met Notion API voor tracking van investeringen en uitgaven.</li>
             <li><strong>Status</strong>: Niet begonnen</li>
             <li><strong>Prioriteit</strong>: Gemiddeld</li>
@@ -141,10 +141,10 @@
         </li>
       </ul>
       <!-- Project 6 -->
-      <ul>
+      <ol>
         <li>
           <h3>6. ⚙️ Code Snippets Project</h3>
-          <ul>
+          <ol>
             <li><strong>Doel</strong>: Een verzameling handige code snippets voor persoonlijke projecten.</li>
             <li><strong>Status</strong>: ???</li>
             <li><strong>Prioriteit</strong>: Laag</li>
