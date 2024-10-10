@@ -17,7 +17,7 @@
       </div>
     </td>
     <td align="left" style="vertical-align: top;">
-      <h2>🚀 Interesses</h2>
+      <h2 align="center">🚀 Interesses</h2>
       <ul>
         <li><h3>📊 <strong>Data-analyse:</strong></h3>
           <p>Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie om marktdynamiek te analyseren.</p>
