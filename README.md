@@ -87,7 +87,7 @@
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-High-red" alt="High Priority">
             <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status: In Progress">
-            <><strong>Beschrijving:</strong> Integratie van ChatGPT, Notion en Google Calendar om een AI-aangedreven kalender te creëren.</p>
+            <strong>Beschrijving:</strong> Integratie van ChatGPT, Notion en Google Calendar om een AI-aangedreven kalender te creëren.</p>
           </ol>
         </li>
       </ul>
