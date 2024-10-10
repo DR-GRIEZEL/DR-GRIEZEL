@@ -4,7 +4,7 @@
 
 <table style="border="0"">
   <tr>
-    <td align="left" style="vertical-align: top; padding-bottom: 20px;">
+    <td align="left" style="vertical-align: top;">
       <h2 align="center">🧑‍💻 Over Mij</h2>
       <h3>Ik ben een <strong>data-analist</strong> met een sterke focus op <strong>netwerkbeveiliging</strong> en <strong>kwantitatieve analyse.</strong>
       </h3> 
@@ -16,7 +16,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&theme=gruvbox" alt="GitHub Stats" style="max-width: 100%; height: auto;"/>
       </div>
     </td>
-    <td align="left" style="vertical-align: top; padding-bottom: 20px;">
+    <td align="left" style="vertical-align: top;">
       <h2 align="center">🚀 Interesses</h2>
       <ul>
         <li><h3>1. 📊 <strong>Data-analyse:</strong></h3>
@@ -44,7 +44,7 @@
 <table style="border="0"">
   <tr>
     <!-- Voortgangsrapportage Sectie -->
-    <td align="left" style="vertical-align: top; padding-bottom: 20px;">
+    <td align="left" style="vertical-align: top;">
       <h2 align="center">📎 Voortgangsrapportage</h2>
       <h3>1. 📅 <strong>AI-kalenderintegratie</strong></h3>
       <p>[Status: Quart-lib decoderen...]</p>
@@ -79,7 +79,7 @@
       </ul>
     </td>
     <!-- Projecten Sectie -->
-    <td align="left" style="vertical-align: top; padding-bottom: 20px;">
+    <td align="left" style="vertical-align: top;">
       <h2 align="center"><strong>🎯 Projecten</strong></h2>
       <p>Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:</p>
       <!-- Project 1 -->
@@ -136,7 +136,7 @@
           <h3>5. 📚 Notion API Integratie</h3>
           <ul>
             <li><strong>Doel</strong>: Automatiseren van databasebeheer met Notion API voor tracking van investeringen en uitgaven.</li>
-            <li><strong>Status</strong>: Onder ontwikkeling</li>
+            <li><strong>Status</strong>: Niet begonnen</li>
             <li><strong>Prioriteit</strong>: Gemiddeld</li>
             <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/notion-api">notion-api</a></li>
           </ul>
