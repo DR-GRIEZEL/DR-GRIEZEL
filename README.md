@@ -87,7 +87,7 @@
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-High-red" alt="High Priority">
             <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status: In Progress">
-            <li><strong>Beschrijving:</strong> Integratie van ChatGPT, Notion en Google Calendar om een AI-aangedreven kalender te creëren.</li>
+            <><strong>Beschrijving:</strong> Integratie van ChatGPT, Notion en Google Calendar om een AI-aangedreven kalender te creëren.</p>
           </ol>
         </li>
       </ul>
@@ -103,7 +103,7 @@
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-High-red" alt="High Priority">
             <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status: In Progress">
-            <li><strong>Beschrijving:</strong> Ontwikkelen van een geautomatiseerd trading-algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.</li>
+            <p><strong>Beschrijving:</strong> Ontwikkelen van een geautomatiseerd trading-algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.</p>
           </ol>
         </li>
       </ul>
@@ -119,7 +119,7 @@
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-High-red" alt="High Priority">
             <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status: In Progress">
-            <li><strong>Beschrijving:</strong> Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI.</li>
+            <p><strong>Beschrijving:</strong> Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI.</p>
           </ol>
         </li>
       </ul>
@@ -135,7 +135,7 @@
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-Medium-yellow" alt="Medium Priority"></li>
             <img src="https://img.shields.io/badge/Status-On%20Hold-orange" alt="Status: On Hold">
-            <li><strong>Beschrijving:</strong> blog-repository synchroniseren met het sub-domein van Cloudflare Workers.</li>
+            <p><strong>Beschrijving:</strong> blog-repository synchroniseren met het sub-domein van Cloudflare Workers.</p>
           </ol>
         </li>
       </ul>
@@ -151,7 +151,7 @@
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-Low-green" alt="Low Priority"></li>
             <img src="https://img.shields.io/badge/Status-On%20Hold-orange" alt="Status: On Hold">
-            <li><strong>Beschrijving:</strong> Automatiseren van databasebeheer met Notion API voor tracking van investeringen en uitgaven.</li>
+            <p><strong>Beschrijving:</strong> Automatiseren van databasebeheer met Notion API voor tracking van investeringen en uitgaven.</p>
           </ol>
         </li>
       </ul>
@@ -167,7 +167,7 @@
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-Low-green" alt="Low Priority"></li>
             <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status: Active">
-            <li><strong>Beschrijving:</strong> Een verzameling handige code snippets voor persoonlijke projecten.</li>
+            <p><strong>Beschrijving:</strong> Een verzameling handige code snippets voor persoonlijke projecten.</p>
           </ol>
         </li>
       </ul>
