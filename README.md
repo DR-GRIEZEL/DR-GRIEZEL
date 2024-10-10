@@ -86,7 +86,7 @@
       <!-- Project 1 -->
       <ul>
         <li>
-          <h3>📅 AI Kalender Project 📅</h3>
+          <h3>1. 📅 AI Kalender Project</h3>
           <ul>
             <li><strong>Doel</strong>: Integratie van ChatGPT, Notion en Google Calendar om een AI-aangedreven kalender te creëren.</li>
             <li><strong>Status</strong>: Onder ontwikkeling</li>
@@ -98,7 +98,7 @@
       <!-- Project 2 -->
       <ul>
         <li>
-          <h3>📊 Trading Algoritme voor Crypto 📊</h3>
+          <h3>2. 📊 Trading Algoritme voor Crypto</h3>
           <ul>
             <li><strong>Doel</strong>: Ontwikkelen van een geautomatiseerd trading-algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.</li>
             <li><strong>Status</strong>: Onder ontwikkeling</li>
@@ -110,7 +110,7 @@
       <!-- Project 3 -->
       <ul>
         <li>
-          <h3>📹 YouTube AI Samenvatting Bot 📹</h3>
+          <h3>3. 📹 YouTube AI Samenvatting Bot</h3>
           <ul>
             <li><strong>Doel</strong>: Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI.</li>
             <li><strong>Status</strong>: Onder ontwikkeling</li>
@@ -122,7 +122,7 @@
       <!-- Project 4 -->
       <ul>
         <li>
-          <h3>📝 GitHub Blog met Cloudflare Integratie 📝</h3>
+          <h3>4. 📝 GitHub Blog met Cloudflare Integratie</h3>
           <ul>
             <li><strong>Doel</strong>: Mijn blog-repository synchroniseren met het sub-domein van Cloudflare Workers.</li>
             <li><strong>Status</strong>: Onder ontwikkeling</li>
@@ -134,7 +134,7 @@
       <!-- Project 5 -->
       <ul>
         <li>
-          <h3>📚 Notion API Integratie 📚</h3>
+          <h3>5. 📚 Notion API Integratie</h3>
           <ul>
             <li><strong>Doel</strong>: Automatiseren van databasebeheer met Notion API voor tracking van investeringen en uitgaven.</li>
             <li><strong>Status</strong>: Onder ontwikkeling</li>
@@ -146,7 +146,7 @@
       <!-- Project 6 -->
       <ul>
         <li>
-          <h3>⚙️ Code Snippets Project ⚙️</h3>
+          <h3>6. ⚙️ Code Snippets Project</h3>
           <ul>
             <li><strong>Doel</strong>: Een verzameling handige code snippets voor persoonlijke projecten.</li>
             <li><strong>Status</strong>: ???</li>
