@@ -157,8 +157,5 @@
     </td>
   </tr>
 </table>
-</body>
----
-
 <h3>Licentie</h3>
 <p>Dit project wordt gedistribueerd onder de MIT-licentie. Zie het bestand LICENSE voor details.</p>
