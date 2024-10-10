@@ -2,7 +2,7 @@
 
 ![Hero Image](https://img.freepik.com/free-vector/vector-abstract-colorful-big-data-visualization-futuristic-infographics-aesthetic-design-visual-information-complexity-intricate-data-threads-graphic-social-network-business-analytics_1217-2428.jpg?t=st=1728511444~exp=1728515044~hmac=5da0995a985e0e1194aba1c35b1562a00066ead445c8edbc580c4b97c66ee553&w=900)
 
-<table style="border="0"">
+<table style="border="0">
   <tr>
     <td align="left" style="vertical-align: top;">
       <h2 align="center">🧑‍💻 Over Mij</h2>
@@ -41,7 +41,7 @@
 
 ---
 
-<table style="border="0"">
+<table style="border="0">
   <tr>
     <!-- Voortgangsrapportage Sectie -->
     <td align="left" style="vertical-align: top;">
