@@ -107,7 +107,7 @@
       <!-- Project 3 -->
       <ul>
         <li>
-          <h3>YouTube AI Samenvatting Bot</h3>
+          <h3>📹 YouTube AI Samenvatting Bot</h3>
           <ol>
             <li><strong>Doel</strong>: Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI.</li>
             <li><strong>Status</strong>: Onder ontwikkeling</li>
@@ -119,7 +119,7 @@
       <!-- Project 4 -->
       <ul>
         <li>
-          <h3>GitHub Blog met Cloudflare Integratie</h3>
+          <h3>🌐 GitHub Blog met Cloudflare Integratie</h3>
           <ol>
             <li><strong>Doel</strong>: Mijn blog-repository synchroniseren met het sub-domein van Cloudflare Workers.</li>
             <li><strong>Status</strong>: Onder ontwikkeling</li>
@@ -131,7 +131,7 @@
       <!-- Project 5 -->
       <ul>
         <li>
-          <h3>📚 Notion API Integratie</h3>
+          <h3>🔗 Notion API Integratie</h3>
           <ol>
             <li><strong>Doel</strong>: Automatiseren van databasebeheer met Notion API voor tracking van investeringen en uitgaven.</li>
             <li><strong>Status</strong>: Niet begonnen</li>
