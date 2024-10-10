@@ -19,19 +19,19 @@
     <td align="left" style="vertical-align: top; padding-bottom: 20px;">
       <h2 align="center">🚀 Interesses</h2>
       <ul>
-        <li><h3>📊 <strong>Data-analyse:</strong></h3>
+        <li><h3>1. 📊 <strong>Data-analyse:</strong></h3>
           <p>Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie om marktdynamiek te analyseren.</p>
         </li>
-        <li><h3>🔒 <strong>Netwerkbeveiliging:</strong></h3>
+        <li><h3>2. 🔒 <strong>Netwerkbeveiliging:</strong></h3>
           <p>Expertise in het beveiligen van netwerken, API-aanroepen, port forwarding, en encryptie voor veilige datastromen.</p>
         </li>
-        <li><h3>🔗 <strong>API-integratie:</strong></h3>
+        <li><h3>3. 🔗 <strong>API-integratie:</strong></h3>
           <p>Ervaring met het verbinden van API's (o.a. Google, Notion, ChatGPT) voor dataverzameling en -beheer.</p>
         </li>
-        <li><h3>🌐 <strong>Webontwikkeling</strong> en <strong>Database-beheer:</strong></h3>
+        <li><h3>4. 🌐 <strong>Webontwikkeling</strong> en <strong>Database-beheer:</strong></h3>
         <p>Beheer van Notion-databases en het bouwen van webpagina's met behulp van XHTML, SCSS, en JavaScript. Ontwikkeling van een blogpagina met Cloudflare Workers voor HTTPS/TSL.</p>
         </li>
-        <li><h3>🤖 <strong>Machine Learning:</strong></h3>
+        <li><h3>5. 🤖 <strong>Machine Learning:</strong></h3>
         <p>Focus op het toepassen van machine learning-algoritmes om handelspatronen te voorspellen en data te optimaliseren</p>
         </li>
       </ul>
@@ -62,7 +62,7 @@
         <li>opslaan in folder gebaseerd op kernwoorden</li>
         <li>relevante data uploaden naar publieke database</li>
       </ul>
-      <h3>📊 <strong>Notion DB & Website (nog altijd niet geïntegreerd met Github)</strong></h3>
+      <h3>3. 📊 <strong>Notion DB & Website (nog altijd niet geïntegreerd met Github)</strong></h3>
       <p>[Voortgang: Bezig met het implementeren van investeringen-database, abonnementen-database.]</p>
       <ul>
         <li><strong>Database</strong>
