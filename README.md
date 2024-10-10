@@ -4,7 +4,7 @@
 
 <table style="border: none;">
   <tr>
-    <td align="center" style="vertical-align: top;">
+    <td align="left" style="vertical-align: top;">
       <h2 style="color: #4CAF50;" align="center">🧑‍💻 Over Mij</h2>
       <h3>Ik ben een <strong>data-analist</strong> met een sterke focus op <strong>netwerkbeveiliging</strong> en <strong>kwantitatieve analyse.</strong>
       </h3> 
@@ -16,7 +16,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&theme=gruvbox" alt="GitHub Stats" style="max-width: 100%; height: auto;"/>
       </div>
     </td>
-    <td align="center" style="vertical-align: top;">
+    <td align="left" style="vertical-align: top;">
       <h2>🚀 Interesses</h2>
       <ul>
         <li><h3>📊 <strong>Data-analyse:</strong></h3>
@@ -44,7 +44,7 @@
 <table style="border: none;">
   <tr>
     <!-- Voortgangsrapportage Sectie -->
-    <td align="center" style="vertical-align: top; margin: 0; padding: 0;">
+    <td align="left" style="vertical-align: top; margin: 0; padding: 0;">
       <h2>📎 Voortgangsrapportage</h2>
       <h3>1. 📅 <strong>AI-kalenderintegratie</strong></h3>
       <p>[Status: Quart-lib decoderen...]</p>
@@ -79,7 +79,7 @@
       </ul>
     </td>
     <!-- Projecten Sectie -->
-    <td align="center" style="vertical-align: top;">
+    <td align="left" style="vertical-align: top;">
       <h2><strong>🎯 Projecten</strong></h2>
       <p>Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:</p>
       <!-- Project 1 -->
