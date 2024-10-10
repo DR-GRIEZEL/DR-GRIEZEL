@@ -120,10 +120,14 @@
             <li><strong>Doel</strong>: Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI.</li>
             <li><strong>Status</strong>: Onder ontwikkeling</li>
             <li><strong>Prioriteit</strong>: Hoog</li>
-            <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/youtube-ai-summary">youtube-ai-summary</a></li>
           </ol>
         </li>
       </ul>
+        <div align="center">
+          <a href="https://github.com/DR-GRIEZEL/youtube-ai-summary">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=youtube-ai-summary" alt="youtube-ai-summary" style="height: auto;"/>
+          </a>
+        </div>
       <!-- Project 4 -->
       <ul>
         <li>
@@ -136,6 +140,11 @@
           </ol>
         </li>
       </ul>
+        <div align="center">
+          <a href="https://github.com/DR-GRIEZEL/blog">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=blog" alt="blog" style="height: auto;"/>
+          </a>
+        </div>
       <!-- Project 5 -->
       <ul>
         <li>
@@ -148,6 +157,11 @@
           </ol>
         </li>
       </ul>
+        <div align="center">
+          <a href="https://github.com/DR-GRIEZEL/notion-api">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=notion-api" alt="notion-api" style="height: auto;"/>
+          </a>
+        </div>
       <!-- Project 6 -->
       <ul>
         <li>
@@ -160,6 +174,11 @@
           </ol>
         </li>
       </ul>
+        <div align="center">
+          <a href="https://github.com/DR-GRIEZEL/code-snippets">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=ncode-snippets" alt="code-snippets" style="height: auto;"/>
+          </a>
+        </div>
     </td>
   </tr>
 </table>
