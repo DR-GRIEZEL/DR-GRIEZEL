@@ -39,7 +39,7 @@
   </tr>
 </table>
 
-<table style="border="0">
+<table>
   <tr>
     <!-- Voortgangsrapportage Sectie -->
     <td align="left" style="vertical-align: top;">
