@@ -86,8 +86,8 @@
           <h3>📅 AI Kalender Project</h3>
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-High-red" alt="High Priority">
-            <li><strong>Doel</strong>: Integratie van ChatGPT, Notion en Google Calendar om een AI-aangedreven kalender te creëren.</li>
-            <li><strong>Status</strong>: Onder ontwikkeling</li>
+            <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status: In Progress">
+            <li><strong>Beschrijving:</strong> Integratie van ChatGPT, Notion en Google Calendar om een AI-aangedreven kalender te creëren.</li>
           </ol>
         </li>
       </ul>
@@ -102,8 +102,8 @@
           <h3>📊 Trading Algoritme voor Crypto</h3>
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-High-red" alt="High Priority">
-            <li><strong>Doel</strong>: Ontwikkelen van een geautomatiseerd trading-algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.</li>
-            <li><strong>Status</strong>: Onder ontwikkeling</li>
+            <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status: In Progress">
+            <li><strong>Beschrijving:</strong> Ontwikkelen van een geautomatiseerd trading-algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.</li>
           </ol>
         </li>
       </ul>
@@ -118,9 +118,8 @@
           <h3>📹 YouTube AI Samenvatting Bot</h3>
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-High-red" alt="High Priority">
-            <li><strong>Doel</strong>: Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI.</li>
-            <li><strong>Status</strong>: Onder ontwikkeling</li>
-            <img src="https://img.shields.io/badge/Prioriteit-Medium-yellow" alt="Medium Priority"></li>
+            <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status: In Progress">
+            <li><strong>Beschrijving:</strong> Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI.</li>
           </ol>
         </li>
       </ul>
@@ -135,8 +134,8 @@
           <h3>🌐 GitHub Blog met Cloudflare Integratie</h3>
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-Medium-yellow" alt="Medium Priority"></li>
-            <li><strong>Doel</strong>: Mijn blog-repository synchroniseren met het sub-domein van Cloudflare Workers.</li>
-            <li><strong>Status</strong>: Onder ontwikkeling</li>
+            <img src="https://img.shields.io/badge/Status-On%20Hold-orange" alt="Status: On Hold">
+            <li><strong>Beschrijving:</strong> blog-repository synchroniseren met het sub-domein van Cloudflare Workers.</li>
           </ol>
         </li>
       </ul>
@@ -151,8 +150,8 @@
           <h3>🔗 Notion API Integratie</h3>
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-Low-green" alt="Low Priority"></li>
-            <li><strong>Doel</strong>: Automatiseren van databasebeheer met Notion API voor tracking van investeringen en uitgaven.</li>
-            <li><strong>Status</strong>: Niet begonnen</li>
+            <img src="https://img.shields.io/badge/Status-On%20Hold-orange" alt="Status: On Hold">
+            <li><strong>Beschrijving:</strong> Automatiseren van databasebeheer met Notion API voor tracking van investeringen en uitgaven.</li>
           </ol>
         </li>
       </ul>
@@ -167,8 +166,8 @@
           <h3>⚙️ Code Snippets Project</h3>
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-Low-green" alt="Low Priority"></li>
-            <li><strong>Doel</strong>: Een verzameling handige code snippets voor persoonlijke projecten.</li>
-            <li><strong>Status</strong>: ???</li>
+            <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status: Active">
+            <li><strong>Beschrijving:</strong> Een verzameling handige code snippets voor persoonlijke projecten.</li>
           </ol>
         </li>
       </ul>
