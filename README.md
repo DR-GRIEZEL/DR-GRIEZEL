@@ -88,13 +88,12 @@
             <li><strong>Doel</strong>: Integratie van ChatGPT, Notion en Google Calendar om een AI-aangedreven kalender te creëren.</li>
             <li><strong>Status</strong>: Onder ontwikkeling</li>
             <li><strong>Prioriteit</strong>: Hoog</li>
-            <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/ai-calendar">ai-calendar</a></li>
           </ol>
         </li>
       </ul>
         <div align="center">
-          <a href="https://github.com/DR-GRIEZEL/DR-GRIEZEL">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=ai-calenda" alt="ai-calendar" style="height: auto;"/>
+          <a href="https://github.com/DR-GRIEZEL/ai-calendar">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=ai-calendar" alt="ai-calendar" style="height: auto;"/>
           </a>
         </div>
       <!-- Project 2 -->
@@ -105,10 +104,14 @@
             <li><strong>Doel</strong>: Ontwikkelen van een geautomatiseerd trading-algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.</li>
             <li><strong>Status</strong>: Onder ontwikkeling</li>
             <li><strong>Prioriteit</strong>: Hoog</li>
-            <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/trading-bots">trading-bots</a></li>
           </ol>
         </li>
       </ul>
+        <div align="center">
+          <a href="https://github.com/DR-GRIEZEL/trading-bots">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=trading-bots" alt="trading-bots" style="height: auto;"/>
+          </a>
+        </div>
       <!-- Project 3 -->
       <ul>
         <li>
