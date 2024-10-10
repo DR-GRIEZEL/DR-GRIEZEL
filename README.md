@@ -2,7 +2,7 @@
 
 ![Hero Image](https://img.freepik.com/free-vector/vector-abstract-colorful-big-data-visualization-futuristic-infographics-aesthetic-design-visual-information-complexity-intricate-data-threads-graphic-social-network-business-analytics_1217-2428.jpg?t=st=1728511444~exp=1728515044~hmac=5da0995a985e0e1194aba1c35b1562a00066ead445c8edbc580c4b97c66ee553&w=900)
 
-<table style="border="0">
+<table>
   <tr>
     <td align="left" style="vertical-align: top;">
       <h2 align="center">🧑‍💻 Over Mij</h2>
@@ -34,7 +34,7 @@
         <li><h3>5. 🤖 <strong>Machine Learning:</strong></h3>
         <p>Focus op het toepassen van machine learning-algoritmes om handelspatronen te voorspellen en data te optimaliseren</p>
         </li>
-      </ul>
+      </ol>
     </td>
   </tr>
 </table>
@@ -51,7 +51,7 @@
         <li>Google</li>
         <li>ChatGPT</li>
         <li>browser-extensie</li>
-      </ul>
+      </ol>
       <h3>2. 📹 <strong>AI-youtube-summariser</strong></h3>
       <p>[Status: Downloader wordt ontwikkeld...]</p>
       <ol>
@@ -59,7 +59,7 @@
         <li>summarise met ChatGPT+ (geen API)</li>
         <li>opslaan in folder gebaseerd op kernwoorden</li>
         <li>relevante data uploaden naar publieke database</li>
-      </ul>
+      </ol>
       <h3>3. 📊 <strong>Notion DB & Website (nog altijd niet geïntegreerd met Github)</strong></h3>
       <p>[Voortgang: Bezig met het implementeren van investeringen-database, abonnementen-database.]</p>
       <ol>
@@ -67,14 +67,14 @@
           <ol>
             <li>Geef beleggingen weer met "ID", "AMOUNT ID1", "DATE A", "AMOUNT ID2", "DATE ID B", "FINAL AMOUNT"</li>
             <li>Integreer abonnementen in accounts, zorg dat deze vorige data niet beïnvloeden! Voeg datum toe en weergave op hoofd-pagina die filtert op 1 week en 1 dag: "! Te betalen"</li>
-          </ul>
+          </ol>
         </li>
         <li><strong>Publieke Website</strong>
           <ol>
             <li>DB integreren, kopiëren, publiceren, docs toevoegen.</li>
-          </ul>
+          </ol>
         </li>
-      </ul>
+      </ol>
     </td>
     <!-- Projecten Sectie -->
     <td align="left" style="vertical-align: top;">
@@ -89,9 +89,9 @@
             <li><strong>Status</strong>: Onder ontwikkeling</li>
             <li><strong>Prioriteit</strong>: Hoog</li>
             <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/ai-calendar">ai-calendar</a></li>
-          </ul>
+          </ol>
         </li>
-      </ul>
+      </ol>
       <!-- Project 2 -->
       <ol>
         <li>
@@ -101,9 +101,9 @@
             <li><strong>Status</strong>: Onder ontwikkeling</li>
             <li><strong>Prioriteit</strong>: Hoog</li>
             <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/trading-bots">trading-bots</a></li>
-          </ul>
+          </ol>
         </li>
-      </ul>
+      </ol>
       <!-- Project 3 -->
       <ol>
         <li>
@@ -113,9 +113,9 @@
             <li><strong>Status</strong>: Onder ontwikkeling</li>
             <li><strong>Prioriteit</strong>: Hoog</li>
             <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/youtube-ai-summary">youtube-ai-summary</a></li>
-          </ul>
+          </ol>
         </li>
-      </ul>
+      </ol>
       <!-- Project 4 -->
       <ol>
         <li>
@@ -125,9 +125,9 @@
             <li><strong>Status</strong>: Onder ontwikkeling</li>
             <li><strong>Prioriteit</strong>: Gemiddeld</li>
             <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/blog">blog</a></li>
-          </ul>
+          </ol>
         </li>
-      </ul>
+      </ol>
       <!-- Project 5 -->
       <ol>
         <li>
@@ -137,9 +137,9 @@
             <li><strong>Status</strong>: Niet begonnen</li>
             <li><strong>Prioriteit</strong>: Gemiddeld</li>
             <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/notion-api">notion-api</a></li>
-          </ul>
+          </ol>
         </li>
-      </ul>
+      </ol>
       <!-- Project 6 -->
       <ol>
         <li>
@@ -149,9 +149,9 @@
             <li><strong>Status</strong>: ???</li>
             <li><strong>Prioriteit</strong>: Laag</li>
             <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/code-snippets">code-snippets</a></li>
-          </ul>
+          </ol>
         </li>
-      </ul>
+      </ol>
     </td>
   </tr>
 </table>
