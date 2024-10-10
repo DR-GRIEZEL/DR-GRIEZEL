@@ -45,7 +45,7 @@
   <tr>
     <!-- Voortgangsrapportage Sectie -->
     <td align="left" style="vertical-align: top; margin: 0; padding: 0;">
-      <h2>📎 Voortgangsrapportage</h2>
+      <h2 align="center">📎 Voortgangsrapportage</h2>
       <h3>1. 📅 <strong>AI-kalenderintegratie</strong></h3>
       <p>[Status: Quart-lib decoderen...]</p>
       <ul>
@@ -80,7 +80,7 @@
     </td>
     <!-- Projecten Sectie -->
     <td align="left" style="vertical-align: top;">
-      <h2><strong>🎯 Projecten</strong></h2>
+      <h2 align="center"><strong>🎯 Projecten</strong></h2>
       <p>Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:</p>
       <!-- Project 1 -->
       <ul>
