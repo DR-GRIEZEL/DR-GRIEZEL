@@ -81,7 +81,7 @@
       <h2 align="center"><strong>🎯 Projecten</strong></h2>
       <p>Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:</p>
       <!-- Project 1 -->
-      <ol>
+      <ul>
         <li>
           <h3>📅 AI Kalender Project</h3>
           <ol>
@@ -91,9 +91,9 @@
             <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/ai-calendar">ai-calendar</a></li>
           </ol>
         </li>
-      </ol>
+      </ul>
       <!-- Project 2 -->
-      <ol>
+      <ul>
         <li>
           <h3>📊 Trading Algoritme voor Crypto</h3>
           <ol>
@@ -103,9 +103,9 @@
             <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/trading-bots">trading-bots</a></li>
           </ol>
         </li>
-      </ol>
+      </ul>
       <!-- Project 3 -->
-      <ol>
+      <ul>
         <li>
           <h3>YouTube AI Samenvatting Bot</h3>
           <ol>
@@ -115,9 +115,9 @@
             <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/youtube-ai-summary">youtube-ai-summary</a></li>
           </ol>
         </li>
-      </ol>
+      </ul>
       <!-- Project 4 -->
-      <ol>
+      <ul>
         <li>
           <h3>GitHub Blog met Cloudflare Integratie</h3>
           <ol>
@@ -127,9 +127,9 @@
             <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/blog">blog</a></li>
           </ol>
         </li>
-      </ol>
+      </ul>
       <!-- Project 5 -->
-      <ol>
+      <ul>
         <li>
           <h3>📚 Notion API Integratie</h3>
           <ol>
@@ -139,9 +139,9 @@
             <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/notion-api">notion-api</a></li>
           </ol>
         </li>
-      </ol>
+      </ul>
       <!-- Project 6 -->
-      <ol>
+      <ul>
         <li>
           <h3>⚙️ Code Snippets Project</h3>
           <ol>
@@ -151,7 +151,7 @@
             <li><strong>Repository</strong>: <a href="https://github.com/dr-griezel/code-snippets">code-snippets</a></li>
           </ol>
         </li>
-      </ol>
+      </ul>
     </td>
   </tr>
 </table>
