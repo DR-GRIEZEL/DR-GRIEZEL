@@ -87,7 +87,7 @@
           <ol>
             <li><strong>Doel</strong>: Integratie van ChatGPT, Notion en Google Calendar om een AI-aangedreven kalender te creëren.</li>
             <li><strong>Status</strong>: Onder ontwikkeling</li>
-            <li><strong>Prioriteit</strong>: <img src="https://img.shields.io/badge/Prioriteit-Medium-yellow" alt="Medium Priority"></li>
+            <img src="https://img.shields.io/badge/Prioriteit-Medium-yellow" alt="Medium Priority"></li>
           </ol>
         </li>
       </ul>
@@ -103,7 +103,7 @@
           <ol>
             <li><strong>Doel</strong>: Ontwikkelen van een geautomatiseerd trading-algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.</li>
             <li><strong>Status</strong>: Onder ontwikkeling</li>
-            <li><strong>Prioriteit</strong>: <img src="https://img.shields.io/badge/Prioriteit-Medium-yellow" alt="Medium Priority"></li>
+            <img src="https://img.shields.io/badge/Prioriteit-Medium-yellow" alt="Medium Priority"></li>
           </ol>
         </li>
       </ul>
@@ -119,7 +119,7 @@
           <ol>
             <li><strong>Doel</strong>: Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI.</li>
             <li><strong>Status</strong>: Onder ontwikkeling</li>
-            <li><strong>Prioriteit</strong>: <img src="https://img.shields.io/badge/Prioriteit-Medium-yellow" alt="Medium Priority"></li>
+            <img src="https://img.shields.io/badge/Prioriteit-Medium-yellow" alt="Medium Priority"></li>
           </ol>
         </li>
       </ul>
@@ -135,7 +135,7 @@
           <ol>
             <li><strong>Doel</strong>: Mijn blog-repository synchroniseren met het sub-domein van Cloudflare Workers.</li>
             <li><strong>Status</strong>: Onder ontwikkeling</li>
-            <li><strong>Prioriteit</strong>: <img src="https://img.shields.io/badge/Prioriteit-Medium-yellow" alt="Medium Priority"></li>
+            <img src="https://img.shields.io/badge/Prioriteit-Medium-yellow" alt="Medium Priority"></li>
           </ol>
         </li>
       </ul>
@@ -151,7 +151,7 @@
           <ol>
             <li><strong>Doel</strong>: Automatiseren van databasebeheer met Notion API voor tracking van investeringen en uitgaven.</li>
             <li><strong>Status</strong>: Niet begonnen</li>
-            <li><strong>Prioriteit</strong>: <img src="https://img.shields.io/badge/Prioriteit-Low-green" alt="Low Priority"></li>
+            <img src="https://img.shields.io/badge/Prioriteit-Low-green" alt="Low Priority"></li>
           </ol>
         </li>
       </ul>
@@ -167,7 +167,7 @@
           <ol>
             <li><strong>Doel</strong>: Een verzameling handige code snippets voor persoonlijke projecten.</li>
             <li><strong>Status</strong>: ???</li>
-            <li><strong>Prioriteit</strong>: <img src="https://img.shields.io/badge/Prioriteit-Low-green" alt="Low Priority"></li>
+            <img src="https://img.shields.io/badge/Prioriteit-Low-green" alt="Low Priority"></li>
           </ol>
         </li>
       </ul>
