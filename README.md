@@ -5,7 +5,7 @@
 <table style="border: none;">
   <tr>
     <td align="left" style="vertical-align: top;">
-      <h2 style="color: #4CAF50;" align="center">🧑‍💻 Over Mij</h2>
+      <h2 align="center">🧑‍💻 Over Mij</h2>
       <h3>Ik ben een <strong>data-analist</strong> met een sterke focus op <strong>netwerkbeveiliging</strong> en <strong>kwantitatieve analyse.</strong>
       </h3> 
       <p>Mijn doel is het ontwikkelen van efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik.</p>
