@@ -32,7 +32,7 @@
         <p>Beheer van Notion-databases en het bouwen van webpagina's met behulp van XHTML, SCSS, en JavaScript. Ontwikkeling van een blogpagina met Cloudflare Workers voor HTTPS/TSL.</p>
         </li>
         <li><h3>🤖 <strong>Machine Learning:</strong></h3>
-        <p>Focus op het toepassen van machine learning-algoritmes om handelspatronen te voorspellen en data te optimaliseren</p>
+        <p>Focus op het toepassen van machine learning-algoritmes om datapatronen te voorspellen en data te optimaliseren</p>
         </li>
       </ol>
     </td>
