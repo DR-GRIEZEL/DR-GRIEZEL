@@ -83,7 +83,7 @@
       <!-- Project 1 -->
       <ul>
         <li>
-          <h3>📅 AI Kalender Project</h3>
+          <h3>📅 ChatGPT+ Kalender</h3>
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-High-red" alt="High Priority">
             <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status: In Progress">
@@ -99,7 +99,7 @@
       <!-- Project 2 -->
       <ul>
         <li>
-          <h3>📊 Trading Algoritme voor Crypto</h3>
+          <h3>📊 Onhandige Handelsalgoritmes</h3>
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-High-red" alt="High Priority">
             <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status: In Progress">
@@ -115,11 +115,11 @@
       <!-- Project 3 -->
       <ul>
         <li>
-          <h3>📹 YouTube AI Samenvatting Bot</h3>
+          <h3>📹 YouTube ChatGPT+ Samenvatting</h3>
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-High-red" alt="High Priority">
             <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status: In Progress">
-            <p><strong>Beschrijving:</strong> Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI.</p>
+            <p><strong>Beschrijving:</strong> Ontwikkelen van een bot die video's downloadt, analyseert en samenvat met behulp van AI, sorteert op basis van kernwoorden(soort:alpha).</p>
           </ol>
         </li>
       </ul>
@@ -140,14 +140,14 @@
         </li>
       </ul>
         <div align="center">
-          <a href="https://github.com/DR-GRIEZEL/blog">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=blog" alt="blog" style="height: auto;"/>
+          <a href="https://github.com/DR-GRIEZEL/cloudflare-blog">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=cloudflare-blog" alt="blog" style="height: auto;"/>
           </a>
         </div>
       <!-- Project 5 -->
       <ul>
         <li>
-          <h3>🔗 Notion API Integratie</h3>
+          <h3>🔗 Notion API (mindmap)</h3>
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-Low-green" alt="Low Priority"></li>
             <img src="https://img.shields.io/badge/Status-On%20Hold-orange" alt="Status: On Hold">
@@ -163,11 +163,11 @@
       <!-- Project 6 -->
       <ul>
         <li>
-          <h3>⚙️ Code Snippets Project</h3>
+          <h3>⚙️ Code Snippets</h3>
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-Low-green" alt="Low Priority"></li>
             <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status: Active">
-            <p><strong>Beschrijving:</strong> Een verzameling handige code snippets voor persoonlijke projecten.</p>
+            <p><strong>Beschrijving:</strong> Een verzameling: voor handige code snippets in persoonlijke projecten.</p>
           </ol>
         </li>
       </ul>
