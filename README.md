@@ -104,7 +104,7 @@
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-High-red" alt="High Priority">
             <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status: In Progress">
-            <p><strong>Beschrijving:</strong> Ontwikkelen van een geautomatiseerd trading-algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.</p>
+            <p><strong>Beschrijving:</strong> Ontwikkelen van een geautomatiseerd algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.</p>
           </ol>
         </li>
       </ul>
