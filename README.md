@@ -27,10 +27,10 @@
           <p>Expertise in het beveiligen van netwerken, API-aanroepen, port forwarding, en encryptie voor veilige datastromen.</p>
         </li>
         <li><h3>🔗 <strong>API-integratie:</strong></h3>
-          <p>Ervaring met het verbinden van API's (o.a. Google, Notion, ChatGPT) voor dataverzameling en -beheer.</p>
+          <p>Ervaring met het verbinden van API's (o.a. Google, Notion, ChatGPT) voor dataverzameling -en beheer.</p>
         </li>
         <li><h3>🌐 <strong>Webontwikkeling</strong> en <strong>Database-beheer:</strong></h3>
-        <p>Beheer van Notion-databases en het bouwen van webpagina's met behulp van XHTML, SCSS, en JavaScript. Ontwikkeling van een blogpagina met Cloudflare Workers voor HTTPS/TSL.</p>
+        <p>Beheer van Notion-databases en het bouwen van webpagina's met behulp van HTML, SCSS, en Js. Ontwikkeling van een blogpagina met Cloudflare Workers voor gratis HTTPS/TSL.</p>
         </li>
         <li><h3>🤖 <strong>Machine Learning:</strong></h3>
         <p>Focus op het toepassen van machine learning-algoritmes om patronen te voorspellen en data te optimaliseren</p>
