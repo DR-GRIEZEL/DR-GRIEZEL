@@ -1,7 +1,8 @@
-<h1 align="center"">DR-GRIEZEL</h1>
-<p align="center">[Netwerkbeheerder, Data-Analist, Programmeur]</p>
+<h1 align="center"">DR-GRIEZEL = [Netwerkbeheerder, Data-Analist, Programmeur]</h1>
 
 ![Hero Image](githubprofiel.webp)
+
+---
 
 <table>
   <tr>
