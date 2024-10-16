@@ -1,9 +1,3 @@
-<h1 align="center"">DR-GRIEZEL = [Netwerkbeheerder, Data-Analist, Programmeur]</h1>
-
-![Hero Image](githubprofiel.webp)
-
----
-
 <table>
   <tr>
     <td align="left" style="vertical-align: top;">
