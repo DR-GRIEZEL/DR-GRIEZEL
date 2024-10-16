@@ -74,7 +74,7 @@
     </td>
     <!-- Projecten Sectie -->
     <td align="left" style="vertical-align: top;">
-      <h2 align="center"><strong>🎯 Projecten</strong></h2>
+      <h2 align="center"><strong>🎯 Projecten (links aan titels toevoegen)</strong></h2>
       <p>Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:</p>
       <!-- Project 1 -->
       <ul>
