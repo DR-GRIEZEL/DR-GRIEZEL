@@ -51,10 +51,10 @@
       <h3>📹 <strong>AI-youtube-summariser</strong></h3>
       <p>[Status: Downloader wordt ontwikkeld...]</p>
       <ol>
-        <li>downloader</li>
-        <li>summarise met ChatGPT+ (geen API)</li>
-        <li>opslaan in folder gebaseerd op kernwoorden</li>
-        <li>relevante data uploaden naar publieke database</li>
+        <li>downloader: meerdere video's. (batch)</li>
+        <li>summarise met ChatGPT+ (geen API), via browser-integratie!</li>
+        <li>structuur: opslaan in folder gebaseerd op kernwoorden</li>
+        <li>optioneel: relevante data uploaden naar publieke database (Notion/cloudflare)</li>
       </ol>
       <h3>📊 <strong>Notion DB & Website (nog altijd niet geïntegreerd met Github)</strong></h3>
       <p>[Voortgang: Bezig met het implementeren van investeringen-database, abonnementen-database.]</p>
