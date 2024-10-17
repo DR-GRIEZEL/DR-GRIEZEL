@@ -43,9 +43,9 @@
       <h3>📅 <strong>AI-kalenderintegratie</strong></h3>
       <p>[Status: Quart-lib decoderen...]</p>
       <ol>
-        <li>Notion</li>
-        <li>Google</li>
-        <li>ChatGPT</li>
+        <li>Notion API/calendar integratie voor het aanduiden en bijhouden van voltooide taken</li>
+        <li>Google API: voor events te synchroniseren, meldingen te ontvangen</li>
+        <li>ChatGPT: aanmaken en suggesties voor eventkwaliteit en eventduur.</li>
         <li>browser-extensie</li>
       </ol>
       <h3>📹 <strong>AI-youtube-summariser</strong></h3>
