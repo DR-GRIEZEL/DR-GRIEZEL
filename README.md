@@ -21,19 +21,14 @@
       <h2 align="center">🚀 Interesses</h2>
       <ol>
         <li><h3>📊 <strong>Data-analyse:</strong></h3>
-          <p>Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, en grammaticale evolutie om marktdynamiek te analyseren.</p>
+          <p>Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, machine learning, en grammaticale/genetische evolutie om data (o.a. marktdynamieken) te analyseren.</p>
         </li>
         <li><h3>🔒 <strong>Netwerkbeveiliging:</strong></h3>
           <p>Expertise in het beveiligen van netwerken, API-aanroepen, port forwarding, en encryptie voor veilige datastromen.</p>
         </li>
-        <li><h3>🔗 <strong>API-integratie:</strong></h3>
-          <p>Ervaring met het verbinden van API's (o.a. Google, Notion, ChatGPT) voor dataverzameling en -beheer.</p>
-        </li>
         <li><h3>🌐 <strong>Webontwikkeling</strong> en <strong>Database-beheer:</strong></h3>
-        <p>Beheer van Notion-databases en het bouwen van webpagina's met behulp van XHTML, SCSS, en JavaScript. Ontwikkeling van een blogpagina met Cloudflare Workers voor HTTPS/TSL.</p>
+        <p>Beheer van Notion-databases en het bouwen van webpagina's met behulp van HTML, CSS, en Javascript. Ontwikkeling van websites met Cloudflare Workers (HTTPS/TSL), Github CI/CD.</p>
         </li>
-        <li><h3>🤖 <strong>Machine Learning:</strong></h3>
-        <p>Focus op het toepassen van machine learning-algoritmes om patronen te voorspellen en data te optimaliseren</p>
         </li>
       </ol>
     </td>
@@ -42,43 +37,8 @@
 
 <table>
   <tr>
-    <!-- Voortgangsrapportage Sectie -->
-    <td align="left" style="vertical-align: top;">
-      <h2 align="center">📎 Voortgangsrapportage</h2>
-      <h3>📅 <strong>AI-kalenderintegratie</strong></h3>
-      <p>[Status: Quart-lib decoderen...]</p>
-      <ol>
-        <li>Notion</li>
-        <li>Google</li>
-        <li>ChatGPT</li>
-        <li>browser-extensie</li>
-      </ol>
-      <h3>📹 <strong>AI-youtube-summariser</strong></h3>
-      <p>[Status: Downloader wordt ontwikkeld...]</p>
-      <ol>
-        <li>downloader</li>
-        <li>summarise met ChatGPT+ (geen API)</li>
-        <li>opslaan in folder gebaseerd op kernwoorden</li>
-        <li>relevante data uploaden naar publieke database</li>
-      </ol>
-      <h3>📊 <strong>Notion DB & Website (nog altijd niet geïntegreerd met Github)</strong></h3>
-      <p>[Voortgang: Bezig met het implementeren van investeringen-database, abonnementen-database.]</p>
-      <ol>
-        <li><strong>Database</strong>
-          <ol>
-            <li>Geef beleggingen weer met "ID", "AMOUNT ID1", "DATE A", "AMOUNT ID2", "DATE ID B", "FINAL AMOUNT"</li>
-            <li>Integreer abonnementen in accounts, zorg dat deze vorige data niet beïnvloeden! Voeg datum toe en weergave op hoofd-pagina die filtert op 1 week en 1 dag: "! Te betalen"</li>
-          </ol>
-        </li>
-        <li><strong>Publieke Website</strong>
-          <ol>
-            <li>DB integreren, kopiëren, publiceren, docs toevoegen.</li>
-          </ol>
-        </li>
-      </ol>
-    </td>
     <!-- Projecten Sectie -->
-    <td align="left" style="vertical-align: top;">
+    <td align="center" style="vertical-align: top;">
       <h2 align="center"><strong>🎯 Projecten</strong></h2>
       <p>Hieronder een overzicht van mijn lopende projecten, gesorteerd op prioriteit:</p>
       <!-- Project 1 -->
