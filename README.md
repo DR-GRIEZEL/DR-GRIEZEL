@@ -106,7 +106,7 @@
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-Low-green" alt="Low Priority"></li>
             <img src="https://img.shields.io/badge/Status-On%20Hold-orange" alt="Status: On Hold">
-            <p><strong>Beschrijving:</strong> Automatiseren van databasebeheer met Notion API voor tracking van investeringen en uitgaven.</p>
+            <p><strong>Beschrijving:</strong> Automatiseren van databasebeheer met Notion API voor tracking van financieën.</p>
           </ol>
         </li>
       </ul>
@@ -122,7 +122,7 @@
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-Low-green" alt="Low Priority"></li>
             <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status: Active">
-            <p><strong>Beschrijving:</strong> Een verzameling: voor handige code snippets in persoonlijke projecten.</p>
+            <p><strong>Beschrijving:</strong>Leerstof: Jupyter en LaTeX, matplotlib en pandas, SQLite, web design (Javascript, HTML, CSS).</p>
           </ol>
         </li>
       </ul>
