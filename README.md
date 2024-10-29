@@ -1,15 +1,9 @@
-<h1 align="center"">Glenn Vancauwenberge</h1>
-<p align="center">Data-Analist</p>
-
-![Hero Image](https://img.freepik.com/free-vector/vector-abstract-colorful-big-data-visualization-futuristic-infographics-aesthetic-design-visual-information-complexity-intricate-data-threads-graphic-social-network-business-analytics_1217-2428.jpg?t=st=1728511444~exp=1728515044~hmac=5da0995a985e0e1194aba1c35b1562a00066ead445c8edbc580c4b97c66ee553&w=900)
-
 <table>
   <tr>
     <td align="left" style="vertical-align: top;">
       <h2 align="center">🧑‍💻 Over Mij</h2>
       <h3>Ik ben een <strong>data-analist</strong> met een sterke focus op <strong>netwerkbeveiliging</strong> en <strong>kwantitatieve analyse.</strong>
       </h3> 
-      <p>Mijn doel is het ontwikkelen van efficiënte oplossingen voor zowel handelsstrategieën als datacollectie, waarbij ik tools zoals machine learning, statistische modellen en API-integraties gebruik.</p>
       <div align="center">
         <a href="https://github.com/DR-GRIEZEL/DR-GRIEZEL">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=DR-GRIEZEL" alt="Readme Card" style="max-width: 100%; height: auto;"/>
@@ -64,7 +58,7 @@
           <ol>
             <img src="https://img.shields.io/badge/Prioriteit-High-red" alt="High Priority">
             <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status: In Progress">
-            <p><strong>Beschrijving:</strong> Ontwikkelen van een geautomatiseerd trading-algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.</p>
+            <p><strong>Beschrijving:</strong> Ontwikkelen van een geautomatiseerd algoritme dat marktfasen kan analyseren en zowel long als short posities kan nemen.</p>
           </ol>
         </li>
       </ul>
