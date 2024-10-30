@@ -21,7 +21,7 @@
           <p>Expertise in het beveiligen van netwerken, API-aanroepen, port forwarding, en encryptie voor veilige datastromen.</p>
         </li>
         <li><h3>🌐 <strong>Webontwikkeling</strong> en <strong>Database-beheer:</strong></h3>
-        <p>Beheer van Notion-databases en het bouwen van webpagina's met behulp van HTML, CSS, en Javascript. Ontwikkeling van websites met Cloudflare Workers (HTTPS/TSL), Github CI/CD.</p>
+        <p>Beheer van databases en het bouwen van webpagina's met behulp van HTML, CSS, en Javascript. Ontwikkeling van websites met Cloudflare Workers (HTTPS/TSL), Github CI/CD.</p>
         </li>
         </li>
       </ol>
