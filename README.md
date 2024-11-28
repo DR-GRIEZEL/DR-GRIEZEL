@@ -15,13 +15,13 @@
       <h2 align="center">🚀 Interesses</h2>
       <ol>
         <li><h3>📊 <strong>Data-analyse:</strong></h3>
-          <p>Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, machine learning, en grammaticale/genetische evolutie om data (o.a. marktdynamieken) te analyseren.</p>
+          <p>Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, machine learning, en grammaticale/genetische evolutie om data te analyseren.</p>
         </li>
         <li><h3>🔒 <strong>Netwerkbeveiliging:</strong></h3>
           <p>Expertise in het beveiligen van netwerken, API-aanroepen, port forwarding, en encryptie voor veilige datastromen.</p>
         </li>
         <li><h3>🌐 <strong>Webontwikkeling</strong> en <strong>Database-beheer:</strong></h3>
-        <p>Beheer van databases en het bouwen van webpagina's met behulp van HTML, CSS, en Javascript met gebruik van Github CI/CD.</p>
+        <p>Beheer van databases en het bouwen van webpagina's met behulp van HTML, CSS, en Javascript.</p>
         </li>
         </li>
       </ol>
