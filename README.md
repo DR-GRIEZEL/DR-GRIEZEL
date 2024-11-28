@@ -2,7 +2,7 @@
   <tr>
     <td align="left" style="vertical-align: top;">
       <h2 align="center">🧑‍💻 Over Mij</h2>
-      <h3>Ik ben een <strong>Freelance data-analist & website ontwikkelaar</strong> met een sterke focus op <strong>netwerkbeveiliging, API</strong> en <strong>database-beheer & mathematische analyses</strong>
+      <h3>N/A
       </h3> 
       <div align="center">
         <a href="https://github.com/DR-GRIEZEL/DR-GRIEZEL">
