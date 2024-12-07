@@ -15,13 +15,16 @@
       <h2 align="center">🚀 Interesses</h2>
       <ol>
         <li><h3>📊 <strong>Data-analyse:</strong></h3>
-          <p>Werk met statistische modellen zoals mean reversion, Monte Carlo-simulaties, machine learning, en grammaticale/genetische evolutie om data te analyseren.</p>
+          <p>Doel: statistische modellen: mean reversion, Monte Carlo-simulaties, machine learning, en grammaticale/genetische evolutie.</p>
+          <p>Status: basis-algoritmen implementeren in TradingView, daarna backtesten met Python: backtest.py</p>
         </li>
         <li><h3>🔒 <strong>Netwerkbeveiliging:</strong></h3>
-          <p>Expertise in het beveiligen van netwerken, API-aanroepen, port forwarding, en encryptie voor veilige datastromen.</p>
+          <p>netwerk routing en dns-filtering, server hosting van HTTPS domein incl. port forwarding via Raspberry Pi. API-aanroepen (Google, Notion, ChatGPT), encryptie voor veilige datastromen.</p>
         </li>
-        <li><h3>🌐 <strong>Webontwikkeling</strong> en <strong>Database-beheer:</strong></h3>
-        <p>Beheer van databases en het bouwen van webpagina's met behulp van HTML, CSS, en Javascript.</p>
+        <li><h3>🌐 <strong>Webontwikkeling</strong></h3>
+        <p>HTML, CSS, en Javascript. Gebruik Quart voor server-hosting.</p>
+        <li><h3> <strong>Database-beheer:</strong>
+        <p>Beheer van databases met SQLite: Bitvavo.db</p>
         </li>
         </li>
       </ol>
