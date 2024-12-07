@@ -23,7 +23,7 @@
         </li>
         <li><h3>🌐 <strong>Webontwikkeling</strong></h3>
         <p>HTML, CSS, en Javascript. Gebruik Quart voor server-hosting.</p>
-        <li><h3> <strong>Database-beheer:</strong>
+        <li><h3> <strong>Database-beheer:</strong></h3>
         <p>Beheer van databases met SQLite: Bitvavo.db</p>
         </li>
         </li>
