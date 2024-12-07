@@ -12,19 +12,19 @@
       </div>
     </td>
     <td align="left" style="vertical-align: top;">
-      <h2 align="center">🚀 Interesses</h2>
+      <h2 align="center">🚀 Workflow</h2>
       <ol>
-        <li><h3>📊 <strong>Data-analyse:</strong></h3>
-          <p>Doel: statistische modellen: mean reversion, Monte Carlo-simulaties, machine learning, en grammaticale/genetische evolutie.</p>
-          <p>Status: basis-algoritmen implementeren in TradingView, daarna backtesten met Python: backtest.py</p>
+        <li><h3>📊 <strong>Data-analyse</strong></h3>
+          <p>DOEL: [statistische modellen: mean reversion, Monte Carlo-simulaties, machine learning, en grammaticale/genetische evolutie.]</p>
+          <p>STATUS: [basis-algoritmen implementeren in TradingView, daarna backtesten met Python: backtest.py]</p>
         </li>
-        <li><h3>🔒 <strong>Netwerkbeveiliging:</strong></h3>
-          <p>netwerk routing en dns-filtering, server hosting van HTTPS domein incl. port forwarding via Raspberry Pi. API-aanroepen (Google, Notion, ChatGPT), encryptie voor veilige datastromen.</p>
+        <li><h3>🔒 <strong>Netwerkbeveiliging</strong></h3>
+          <p>STATUS: [netwerk routing en dns-filtering, server hosting van HTTPS domein incl. port forwarding via Raspberry Pi. API-aanroepen (Google, Notion, ChatGPT), encryptie voor veilige datastromen.]</p>
         </li>
         <li><h3>🌐 <strong>Webontwikkeling</strong></h3>
-        <p>HTML, CSS, en Javascript. Gebruik Quart voor server-hosting.</p>
-        <li><h3> <strong>Database-beheer:</strong></h3>
-        <p>Beheer van databases met SQLite: Bitvavo.db</p>
+        <p>STATUS: HTML, CSS, Javascript-vaardigheden bijschaven. Gebruik Quart als server framework, Python als back-end.</p>
+        <li><h3> <strong>🔗 Database-beheer:</strong></h3>
+        <p>STATUS: Beheer van databases (setup en maintenance) met SQLite: Bitvavo.db</p>
         </li>
         </li>
       </ol>
