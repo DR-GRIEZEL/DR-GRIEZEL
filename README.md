@@ -16,15 +16,13 @@
       <ol>
         <li><h3>📊 <strong>Data-analyse</strong></h3>
           <p>DOEL: [statistische modellen: mean reversion, Monte Carlo-simulaties, machine learning, en grammaticale/genetische evolutie.]</p>
-          <p>STATUS: [basis-algoritmen implementeren in TradingView, daarna backtesten met Python: backtest.py]</p>
+          <p>STATUS: [algoritmes implementeren in TradingView, backtesten met backtest.py en implementeren]</p>
         </li>
         <li><h3>🔒 <strong>Netwerkbeveiliging</strong></h3>
           <p>STATUS: [netwerk routing en dns-filtering, server hosting van HTTPS domein incl. port forwarding via Raspberry Pi. API-aanroepen (Google, Notion, ChatGPT), encryptie voor veilige datastromen.]</p>
         </li>
         <li><h3>🌐 <strong>Webontwikkeling</strong></h3>
-        <p>STATUS: HTML, CSS, Javascript-vaardigheden bijschaven. Gebruik Quart als server framework, Python als back-end.</p>
-        <li><h3> <strong>🔗 Database-beheer:</strong></h3>
-        <p>STATUS: Beheer van databases (setup en maintenance) met SQLite: Bitvavo.db</p>
+        <p>STATUS: HTML, CSS, Javascript voor front-end. Gebruik van Quart als server framework, Python en SQLite als back-end.</p>
         </li>
         </li>
       </ol>
