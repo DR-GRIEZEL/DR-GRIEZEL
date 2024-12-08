@@ -23,7 +23,7 @@
           <p>STATUS: [netwerk routing en dns-filtering, server hosting van HTTPS domein incl. port forwarding via Raspberry Pi. API-aanroepen (Google, Notion, ChatGPT), encryptie voor veilige datastromen.]</p>
         </li>
         <li><h3>🌐 <strong>Webontwikkeling</strong></h3>
-        <p>STATUS: HTML, CSS, Javascript voor front-end. Gebruik van Quart als server framework, Python en SQLite als back-end.</p>
+        <p>STATUS: HTML, CSS, Javascript voor front-end. Gebruik van Quart & Jinja2 als server framework, Python en SQLite als back-end.</p>
         </li>
         </li>
       </ol>
