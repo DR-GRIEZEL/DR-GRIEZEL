@@ -15,14 +15,14 @@
       <ol>
         <li><h3>📊 <strong>Data-analyse</strong></h3>
           <p>DOEL: [statistische modellen: mean reversion, Monte Carlo-simulaties, machine learning, en grammaticale/genetische evolutie.]</p>
-          <p>STATUS: [algoritmes implementeren in TradingView, backtesten met backtest.py en implementeren]</p>
+          <p>STATUS: [algoritmes implementeren in TradingView, Python API.]</p>
           <p>TODO: LaTeX, numpy en matplotlib</p>
         </li>
         <li><h3>🔒 <strong>Netwerkbeveiliging</strong></h3>
-          <p>STATUS: [netwerk routing en dns-filtering, server hosting van HTTPS domein incl. port forwarding via Raspberry Pi. API-aanroepen (Google, Notion, ChatGPT), encryptie voor veilige datastromen.]</p>
+          <p>STATUS: [server hosting van HTTPS dns-filtering via Raspberry Pi. API-aanroepen (Google, Notion, ChatGPT), encryptie.]</p>
         </li>
         <li><h3>🌐 <strong>Webontwikkeling</strong></h3>
-        <p>STATUS: HTML, CSS, Javascript voor front-end. Gebruik van Quart & Jinja2 als server framework, Python en SQLite als back-end.</p>
+        <p>STATUS: HTML, CSS, Javascript voor front-end. Gebruik van Flask/Quart & Jinja2 als server framework, Python, javascript en SQLite als back-end.</p>
         </li>
         </li>
       </ol>
