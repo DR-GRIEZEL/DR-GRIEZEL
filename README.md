@@ -1,8 +1,7 @@
 <table>
   <tr>
     <td align="left" style="vertical-align: top;">
-      <h2 align="center">🧑‍💻 Over Mij</h2>
-      <h3>N/A
+      <h2 align="center">🧑‍💻 Status</h2>
       </h3> 
       <div align="center">
         <a href="https://github.com/DR-GRIEZEL/DR-GRIEZEL">
