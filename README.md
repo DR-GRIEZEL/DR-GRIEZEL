@@ -8,6 +8,7 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=DR-GRIEZEL" alt="Readme Card" style="max-width: 100%; height: auto;"/>
         </a>
         <img src="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&theme=gruvbox" alt="GitHub Stats" style="max-width: 100%; height: auto;"/>
+        <a href="https://wakatime.com/@2270454a-8d3f-442f-b5d5-b72bb2014113"><img src="https://wakatime.com/badge/user/2270454a-8d3f-442f-b5d5-b72bb2014113.svg" alt="Total time coded since Oct 27 2024" /></a>
       </div>
     </td>
     <td align="left" style="vertical-align: top;">
