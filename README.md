@@ -17,7 +17,6 @@
         <li><h3>📊 <strong>Data</strong></h3>
           <p>DOEL: machine learning, en grammaticale/genetische evolutie.</p>
           <p>STATUS: algoritmes implementeren in TradingView, Python API.</p>
-          <p>TODO: LaTeX, numpy en matplotlib</p>
         </li>
         <li><h3>🔒 <strong>Netwerk</strong></h3>
           <p>STATUS: server hosting van HTTPS dns-filtering via Raspberry Pi. API-aanroepen (Google, Notion, ChatGPT), encryptie.</p>
