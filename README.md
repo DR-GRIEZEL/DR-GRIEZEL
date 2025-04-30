@@ -16,15 +16,15 @@
       <ol>
         <li><h3>📊 <strong>Data</strong></h3>
           <p>DOEL: machine learning, en grammaticale/genetische evolutie.</p>
-          <p>STATUS: algoritmes implementeren in TradingView, Python API.</p>
+          <p>STATUS: algoritmes implementeren in TradingView, Python bot.</p>
         </li>
         <li><h3>🔒 <strong>Netwerk</strong></h3>
-          <p>STATUS: server hosting van HTTPS dns-filtering via Raspberry Pi. API-aanroepen (Google, Notion, ChatGPT), encryptie.</p>
+          <p>STATUS: server hosting van HTTPS dns-filtering via Raspberry Pi. API-aanroepen (Google, Notion, ChatGPT, Discord), encryptie.</p>
         </li>
         <li><h3>🌐 <strong>Web</strong></h3>
-        <p>STATUS: HTML, CSS, Javascript voor front-end. Gebruik van Flask/Quart & Jinja2 als server framework, Python, javascript en SQLite als back-end.</p>
+        <p>STATUS: HTML, CSS, Javascript voor front-end. Flask/Quart & Jinja2 server framework - Python, javascript en SQLite als back-end.</p>
         <li><h3>emoji <strong>Electronica</strong></h3>
-        <p>STATUS: Arduino, Raspberry pi met Linux.</p>
+        <p>STATUS: Arduino microcontroller, overclocked Raspberry pi 4 8GB met Linux (RPI OS Lite (Debian gebaseerd), met Gnome launcher).</p>
         </li>
         </li>
       </ol>
