@@ -15,16 +15,19 @@
       <h2 align="center">🚀 Workflow</h2>
       <ol>
         <li><h3>📊 <strong>Data</strong></h3>
-          <p>DOEL: machine learning, en grammaticale/genetische evolutie.</p>
-          <p>STATUS: algoritmes implementeren in TradingView, Python bot.</p>
+          <p><b>DOEL:</b> Machine learning, en grammaticale/genetische evolutie.</p>
+          <p><b>STATUS:</b> algoritmes implementeren in TradingView, Python bot.</p>
         </li>
         <li><h3>🔒 <strong>Netwerk</strong></h3>
-          <p>STATUS: server hosting van HTTPS dns-filtering via Raspberry Pi. API-aanroepen (Google, Notion, ChatGPT, Discord), encryptie.</p>
+          <p><b>DOEL:</b> live domein hosten met HTTPS protocol. Google, Notion, ChatGPT API. Encryptie, compressie van opslag.</p>
+          <p><b>STATUS:</b> DNS-filtering via Raspberry Pi. API-aanroepen via Discord webhook, Bitvavo POST/GET requests en webhook.</p>
         </li>
         <li><h3>🌐 <strong>Web</strong></h3>
-        <p>STATUS: HTML, CSS, Javascript voor front-end. Flask/Quart & Jinja2 server framework - Python, javascript en SQLite als back-end.</p>
+          <p><b>DOEL:</b> Live Dashboard met historische en live candles. </p>
+          <p>STATUS: HTML, CSS, Javascript voor front-end. Flask/Quart & Jinja2 server framework - Python, javascript en SQLite als back-end.</p>
         <li><h3>emoji <strong>Electronica</strong></h3>
-        <p>STATUS: Arduino microcontroller, overclocked Raspberry pi 4 8GB met Linux (RPI OS Lite (Debian gebaseerd), met Gnome launcher).</p>
+          <p><b>DOEL:</b> Arduino projecten: Ticker scherm. C leren voor Hardware...MycroPython alternatief? </p>
+          <p><b>STATUS:</b> Arduino microcontroller, overclocked Raspberry pi 4 8GB met Linux (RPI OS Lite (Debian gebaseerd), met Gnome launcher).</p>
         </li>
         </li>
       </ol>
