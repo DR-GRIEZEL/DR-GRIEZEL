@@ -20,7 +20,7 @@
         </li>
         <li><h3>🔒 <strong>Netwerk</strong></h3>
           <p><b>DOEL:</b>Domein hosten met HTTPS protocol. Google, ChatGPT -> Discord API. Encryptie, compressie.</p>
-          <p><b>STATUS:</b> DNS-filtering via Raspberry Pi. API-aanroepen via Discord webhook, Bitvavo POST/GET requests en webhook.</p>
+          <p><b>STATUS:</b> DNS-filtering via PiHole. Wireguard opstellen... SMB-share met Syncthing.</p>
         </li>
         <li><h3>🌐 <strong>Web</strong></h3>
           <p><b>DOEL:</b>Interactief Live Dashboard met historische en live candles + visuele indicatoren, zoals TradingView.</p>
