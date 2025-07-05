@@ -16,11 +16,11 @@
       <h2 align="center">🚀 Workflow</h2>
       <ol>
         <li><h3>📊 <strong>Data</strong></h3>
-          <p><b>🚩</b>MySQL DB beheer, Indicatoren formules implementeren, Machine learning en grammaticale/genetische evolutie.</p>
+          <p><b>🚩</b>MySQL DB beheer, Indicatoren formules implementeren, Machine learning en grammaticale/genetische evolutie. Encryptie algoritmes & data-compressie.</p>
           <p><b>🎲</b>Geautomatiseerde live data-analyse algoritme.</p>
         </li>
         <li><h3>🔒 <strong>Netwerk</strong></h3>
-          <p><b>🚩</b>Domein hosten met HTTPS protocol. Google, ChatGPT -> Discord API. Encryptie, compressie.</p>
+          <p><b>🚩</b>Domein hosten met HTTPS protocol. Google, ChatGPT -> Discord API.</p>
           <p><b>🎲</b> DNS-filtering via PiHole. Wireguard opstellen... SMB-share met Syncthing.</p>
         </li>
         <li><h3>🌐 <strong>Web</strong></h3>
