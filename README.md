@@ -16,7 +16,7 @@
       <h2 align="center">🚀 Workflow</h2>
       <ol>
         <li><h3>📊 <strong>Data</strong></h3>
-          <p><b>🚩</b>MySQL DB, Machine learning en grammaticale/genetische evolutie.</p>
+          <p><b>🚩</b>MySQL DB beheer, Indicatoren formules implementeren, Machine learning en grammaticale/genetische evolutie.</p>
           <p><b>🎲</b>Geautomatiseerde live data-analyse algoritme.</p>
         </li>
         <li><h3>🔒 <strong>Netwerk</strong></h3>
