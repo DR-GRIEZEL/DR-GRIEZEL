@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td align="left" style="vertical-align: top;">
-      <img src="https://gallery.yopriceville.com/downloadfullsize/send/8407" alt="Manwich" height=200 width=300>
+      <center></center><img src="https://gallery.yopriceville.com/downloadfullsize/send/8407" alt="Manwich" height=200 width=300></center>
       <h2 align="center">🧑‍💻 Status</h2>
       </h3> 
       <div align="center">
