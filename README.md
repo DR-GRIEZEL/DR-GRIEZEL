@@ -17,7 +17,7 @@
       <ol>
         <li><h3>📊 <strong>Data</strong></h3>
           <p><b>🚩</b>MySQL DB beheer, Indicatoren formules implementeren, Machine learning en grammaticale/genetische evolutie. Encryptie algoritmes & data-compressie.</p>
-          <p><b>🎲</b>Geautomatiseerde live data-analyse algoritme.</p>
+          <p><b>🎲</b>Geautomatiseerde historische & live data-analyse algoritmes.</p>
         </li>
         <li><h3>🔒 <strong>Netwerk</strong></h3>
           <p><b>🚩</b>Domein hosten met HTTPS protocol. Google, ChatGPT -> Discord API.</p>
