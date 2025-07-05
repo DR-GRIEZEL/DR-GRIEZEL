@@ -16,7 +16,7 @@
       <h2 align="center">🚀 Workflow</h2>
       <ol>
         <li><h3>📊 <strong>Data</strong></h3>
-          <p><b>🚩</b>MySQL DB beheer, Indicatoren formules implementeren, Machine learning en grammaticale/genetische evolutie. Encryptie algoritmes & data-compressie.</p>
+          <p><b>🚩</b>Financiële data-analyse, Machine learning en grammaticale/genetische evolutie. Encryptie algoritmes & data-compressie, MySQL data-beheer.</p>
           <p><b>🎲</b>Geautomatiseerde historische & live data-analyse algoritmes.</p>
         </li>
         <li><h3>🔒 <strong>Netwerk</strong></h3>
