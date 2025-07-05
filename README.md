@@ -15,19 +15,19 @@
       <h2 align="center">🚀 Workflow</h2>
       <ol>
         <li><h3>📊 <strong>Data</strong></h3>
-          <p><b>DOEL:</b>MySQL, Machine learning, en grammaticale/genetische evolutie.</p>
-          <p><b>STATUS:</b>Geautomatiseerde live data-analyse algoritme.</p>
+          <p><b>🚩</b>MySQL, Machine learning, en grammaticale/genetische evolutie.</p>
+          <p><b>🎲</b>Geautomatiseerde live data-analyse algoritme.</p>
         </li>
         <li><h3>🔒 <strong>Netwerk</strong></h3>
-          <p><b>DOEL:</b>Domein hosten met HTTPS protocol. Google, ChatGPT -> Discord API. Encryptie, compressie.</p>
-          <p><b>STATUS:</b> DNS-filtering via PiHole. Wireguard opstellen... SMB-share met Syncthing.</p>
+          <p><b>🚩</b>Domein hosten met HTTPS protocol. Google, ChatGPT -> Discord API. Encryptie, compressie.</p>
+          <p><b>🎲</b> DNS-filtering via PiHole. Wireguard opstellen... SMB-share met Syncthing.</p>
         </li>
         <li><h3>🌐 <strong>Web</strong></h3>
-          <p><b>DOEL:</b>Interactief Live Dashboard met historische en live candles + visuele indicatoren, zoals TradingView.</p>
-          <p>STATUS: HTML, CSS, Javascript voor front-end. Flask/Quart & Jinja2 server framework - Python, javascript en SQLite als back-end.</p>
+          <p><b>🚩</b>Interactief Live Dashboard met historische en live candles + visuele indicatoren, zoals TradingView.</p>
+          <p><b>🎲</b> HTML, CSS, Javascript voor front-end. Flask/Quart & Jinja2 server framework - Python, javascript en SQLite als back-end.</p>
         <li><h3>🔧 <strong>Electronica</strong></h3>
-          <p><b>DOEL:</b> Arduino projecten: Ticker scherm. C/C++ leren... </p>
-          <p><b>STATUS:</b> Arduino microcontroller, RPi 4 8GB met Linux (RPI OS Lite (Debian gebaseerd), Gnome launcher).</p>
+          <p><b>🚩</b> Arduino projecten: Ticker scherm. C/C++ leren... </p>
+          <p><b>🎲</b> Arduino microcontroller, RPi 4 8GB met Linux (RPI OS Lite (Debian gebaseerd), Gnome launcher).</p>
         </li>
         </li>
       </ol>
