@@ -2,9 +2,7 @@
 
 **Quantitative finance** · **simulations** · **risk** · **minimalist engineering**
 
-- 🧠 Interests: risk models, backtesting, Monte Carlo, execution rules, “what breaks first?”
-- 🧰 Practical: Python-first, Linux/homelab, GitHub Actions, static frontends with live data
-- 🔐 Security stance: 100% third-party auth (Google/GitHub) over custom login
+- 🧠 Interests: Quant trading, Python, Linux, self-hosting, CI pipelines, AI (LLM), web development
 
 ---
 
