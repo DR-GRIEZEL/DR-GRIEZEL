@@ -2,7 +2,7 @@
 
 **Quant finance** · **Simulations** · **Minimalism** · **Automations**
 
-Focus: Automated bots, Python data-engineering, Linux & self-hosting, AI (soon), Web development
+Focus: Automated bots, Python data-engineering, Linux & self-hosting, Web development
 
 ---
 
