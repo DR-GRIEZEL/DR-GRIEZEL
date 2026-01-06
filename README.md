@@ -1,8 +1,7 @@
 # DR_GRIEZEL
 
 **Quant finance** · **Simulations** · **Minimalism** · **Automations**
-
-- 🧠 Focus: data-driven bots, Python data-engineering, Linux & self-hosting, AI (soon), web development
+Focus: data-driven bots, Python data-engineering, Linux & self-hosting, AI (soon), web development
 
 ---
 
