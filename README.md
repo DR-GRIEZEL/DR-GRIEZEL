@@ -12,7 +12,7 @@ Focus: Automated bots, Python data-engineering, Linux & self-hosting, Web develo
 
 ## Project status
 
-| Project | Description | Status | Notes |
+| Project | Description | ✅ | Notes |
 |---|---|---:|---|
 | **Trading engine** | OHLCV → strategy → virtual portfolio tracking | 🟡 | Drawdown, risk caps, testability |
 | **Auto-optimizer** | grid/random search over strategy params | 🟡 | Export to dashboard |
