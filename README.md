@@ -17,12 +17,12 @@
 
 | Project | What it is | Status | Notes |
 |---|---|---:|---|
-| **Bitvavo trading engine** | OHLCV → strategy → virtual portfolio tracking | 🟡 | Drawdown, risk caps, testability |
+| **Trading engine** | OHLCV → strategy → virtual portfolio tracking | 🟡 | Drawdown, risk caps, testability |
 | **Auto-optimizer** | grid/random search over strategy params | 🟡 | Export to dashboard |
 | **Monte Carlo robustness** | randomization for stress tests | 🟠 | MDD, ruin risk, tail events |
-| **Discord “Financial Advisor” bot** | RSI/ATR, tickers, embeds | 🟡 | UX-first: less spam |
-| **GitHub Pages dashboard** | static frontend with live updates | 🟠 | No secrets in the client |
-| **Homelab (RPi)** | self-hosted services, hardening | 🟢 | Backups, rollback |
+| **Discord API** | RSI/ATR, tickers, embeds | 🟡 | UX-first: less spam |
+| **GitHub Pages** | static frontend with live updates | 🟠 | No secrets in the client |
+| **Server** | self-hosted services, hardening | 🟢 | Backups, rollback |
 
 Legend: 🟢 stable · 🟡 active · 🟠 in progress · 🔴 paused
 
