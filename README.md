@@ -8,8 +8,7 @@ Focus: data-driven bots, Python data-engineering, Linux & self-hosting, AI (soon
 
 ## Currently working on
 - **Bot API → GitHub Pages dashboard** (public frontend, private server)
-- **Discord bot UI** for market data / portfolio / alerts
-- **CI & security checks**: use-case-fit workflows, incl. CodeQL where it makes sense
+- **Discord bot UI** for displaying market data / portfolio / alerts
 
 ## Project status
 
