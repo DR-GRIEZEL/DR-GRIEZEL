@@ -29,7 +29,6 @@ Legend: 🟢 stable · 🟡 active · 🟠 in progress · 🔴 paused
 - **Python**
 - **Linux (Debian)**
 - **GitHub Actions**
-- **PineScript**
 - **API**
 - **Web**
 
