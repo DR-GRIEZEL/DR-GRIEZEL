@@ -13,7 +13,7 @@
 
 ## Project status
 
-| Project | What it is | Status | Notes |
+| Project | Description | Status | Notes |
 |---|---|---:|---|
 | **Trading engine** | OHLCV → strategy → virtual portfolio tracking | 🟡 | Drawdown, risk caps, testability |
 | **Auto-optimizer** | grid/random search over strategy params | 🟡 | Export to dashboard |
