@@ -1,8 +1,8 @@
 # DR_GRIEZEL
 
-**Quantitative finance** · **stochastic simulations** · **minimalistic engineering solutions** · **software automations**
+**Quant finance** · **Simulations** · **Minimalism** · **Automations**
 
-- 🧠 Interests: automated bots, Python, Linux, self-hosting, CI pipelines, AI (LLM), web development
+- 🧠 Interests: bots, Python, Linux, self-hosting, CI pipelines, AI (LLM), web development
 
 ---
 
@@ -35,11 +35,10 @@ Legend: 🟢 stable · 🟡 active · 🟠 in progress · 🔴 paused
 - **Web**
 
 ## Engineering rules
-- Modular, minimalistic frameworks.
-- Excessive debug logs over fancy dashboards.
-- Secrets stay server-side; auth is external.
-- low-overhead server setup + rollback options.
+- Modular, minimalistic frameworks. Structure before content.
+- Excessive debug logs over fancy dashboards. Focus on code first.
+- low-overhead, zero down-time server setup + rollback options.
 
 ## Contact / collaboration
-- Issues/PRs: be concrete (repro steps, logs, expected vs actual).
+- Issues/PRs: be concrete (reproduce steps, debug/error logs, expectaction vs actual result).
 - likes (👍): minimal fixes, clear tradeoffs, no word salads.
