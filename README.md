@@ -1,49 +1,47 @@
 # DR_GRIEZEL
 
-**Kwantitatieve finance** · **simulaties** · **risico** · **minimalistische engineering**
+**Quantitative finance** · **simulations** · **risk** · **minimalist engineering**
 
 - 🧠 Interests: risk models, backtesting, Monte Carlo, execution rules, “what breaks first?”
-- 🧰 Praktisch: Python-first, Linux/homelab, GitHub Actions, statische frontends met live data
-- 🔐 Security-stance: 100% third-party auth (Google/GitHub) boven custom login
+- 🧰 Practical: Python-first, Linux/homelab, GitHub Actions, static frontends with live data
+- 🔐 Security stance: 100% third-party auth (Google/GitHub) over custom login
 
 ---
 
-## Nu bezig
-- **Bitvavo API → GitHub Pages dashboard** (publieke frontend, private server)
-- **Discord bot UI** voor marktdata/portfolio/alerts
-- **CI & security checks**: use-case–fit workflows, incl. CodeQL waar zinvol
+## Currently working on
+- **Bot API → GitHub Pages dashboard** (public frontend, private server)
+- **Discord bot UI** for market data / portfolio / alerts
+- **CI & security checks**: use-case-fit workflows, incl. CodeQL where it makes sense
 
 ## Project status
 
-| Project | Wat het is | Status | Notes |
+| Project | What it is | Status | Notes |
 |---|---|---:|---|
-| **Bitvavo trading engine** | OHLCV → strategy → virtuele portfolio tracking | 🟡 | Drawdown, risk caps, testbaarheid |
-| **Auto-optimizer** | grid/random search over strategy params | 🟡 | Export naar dashboard |
-| **Monte Carlo robustness** | randomization voor stress tests | 🟠 | MDD, ruin-risk, tail events |
-| **Discord ‘Financieel Adviseur’ bot** | RSI/ATR, tickers, embeds | 🟡 | UX-first: minder spam |
-| **GitHub Pages dashboard** | statische frontend met live updates | 🟠 | No secrets in client |
+| **Bitvavo trading engine** | OHLCV → strategy → virtual portfolio tracking | 🟡 | Drawdown, risk caps, testability |
+| **Auto-optimizer** | grid/random search over strategy params | 🟡 | Export to dashboard |
+| **Monte Carlo robustness** | randomization for stress tests | 🟠 | MDD, ruin risk, tail events |
+| **Discord “Financial Advisor” bot** | RSI/ATR, tickers, embeds | 🟡 | UX-first: less spam |
+| **GitHub Pages dashboard** | static frontend with live updates | 🟠 | No secrets in the client |
 | **Homelab (RPi)** | self-hosted services, hardening | 🟢 | Backups, rollback |
 
-Legenda: 🟢 stabiel · 🟡 actief · 🟠 in opbouw · 🔴 gepauzeerd
+Legend: 🟢 stable · 🟡 active · 🟠 in progress · 🔴 paused
 
 ---
 
 ## Tech stack
 - **Python**
-- **Linux / Debian (RPi OS)**
+- **Linux (Debian)**
 - **GitHub Actions**
-- **TradingView Pine Script**
-- **Discord**
-- **Frontend**: statisch (GitHub Pages) + API proxy/tunnel
+- **PineScript**
+- **API**
+- **Web**
 
-## Engineering regels
-- Geen framework-rituelen zonder payoff.
-- Transparante logs + reproduceerbare runs boven fancy dashboards.
-- Secrets blijven server-side; client is untrusted; auth extern.
-- Idempotente setup + rollback-opties.
+## Engineering rules
+- Modular, minimalistic frameworks.
+- Excessive debug logs over fancy dashboards.
+- Secrets stay server-side; auth is external.
+- low-overhead server setup + rollback options.
 
-## Contact / samenwerking
-- Issues/PR’s: concreet (repro steps, logs, expected vs actual).
-- Ik hou van: minimal fixes, duidelijke tradeoffs, geen buzzword-bingo.
-
-> Pinned repos hierboven zijn de actuele kern van waar ik aan bouw.
+## Contact / collaboration
+- Issues/PRs: be concrete (repro steps, logs, expected vs actual).
+- likes (👍): minimal fixes, clear tradeoffs, no word salads.
