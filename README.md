@@ -39,4 +39,4 @@ Legend: 🟢 stable · 🟡 active · 🟠 in progress · 🔴 paused
 
 ## Contact / collaboration
 - Issues/PRs: be concrete (reproduce steps, debug/error logs, expectaction vs actual result).
-- 👍: minimal fixes, clear tradeoffs, no word salads.
+- 👍 Likes: minimal fixes, clear tradeoffs, no word salads.
