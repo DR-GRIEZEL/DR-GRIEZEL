@@ -1,8 +1,8 @@
 # DR_GRIEZEL
 
-**Quantitative finance** · **simulations** · **risk** · **minimalist engineering**
+**Quantitative finance** · **stochastic simulations** · **minimalistic engineering solutions** · **software automations**
 
-- 🧠 Interests: Quant trading, Python, Linux, self-hosting, CI pipelines, AI (LLM), web development
+- 🧠 Interests: automated bots, Python, Linux, self-hosting, CI pipelines, AI (LLM), web development
 
 ---
 
