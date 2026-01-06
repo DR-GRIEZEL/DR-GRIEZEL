@@ -2,7 +2,7 @@
 
 **Quant finance** · **Simulations** · **Minimalism** · **Automations**
 
-- 🧠 Interests: bots, Python, Linux, self-hosting, CI pipelines, AI (LLM), web development
+- 🧠 Focus: data-driven bots, Python data-engineering, Linux & self-hosting, AI (soon), web development
 
 ---
 
@@ -41,4 +41,4 @@ Legend: 🟢 stable · 🟡 active · 🟠 in progress · 🔴 paused
 
 ## Contact / collaboration
 - Issues/PRs: be concrete (reproduce steps, debug/error logs, expectaction vs actual result).
-- likes (👍): minimal fixes, clear tradeoffs, no word salads.
+- 👍: minimal fixes, clear tradeoffs, no word salads.
