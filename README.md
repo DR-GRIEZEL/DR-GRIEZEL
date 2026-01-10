@@ -2,8 +2,7 @@
 
 **Python** · **Linux** · **Git** · **CI/CD** · **API** · **Web** · **Bots**
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL" alt="stats" />
+![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ---
 
