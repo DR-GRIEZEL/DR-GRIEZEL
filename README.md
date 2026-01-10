@@ -2,7 +2,8 @@
 
 **Python** · **Linux** · **Git** · **CI/CD** · **API** · **Web** · **Bots**
 
-![](https://raw.githubusercontent.com/DR-GRIEZEL/DR-GRIEZEL/main/github-metrics.svg)
+![](profile-summary-card-output/github_dark/0-profile-details.svg)
+![](profile-summary-card-output/github_dark/1-repos-per-language.svg)
 
 ---
 
