@@ -9,7 +9,7 @@
 
 ## Currently working on
 - **Bot API → GitHub Pages dashboard**
-- **Discord bot UI** for displaying market data / portfolio / alerts
+- **Discord bot UI** (market data / portfolio / alerts)
 
 ## Project status
 
@@ -25,12 +25,3 @@
 Legend: 🟢 stable · 🟡 active · 🟠 in progress · 🔴 paused
 
 ---
-
-## Engineering rules
-- Modular, minimalistic frameworks. Structure before content.
-- Excessive debug logs over fancy dashboards. Focus on code first.
-- low-overhead, zero down-time server setup + rollback options.
-
-## Contact / collaboration
-- Issues/PRs: be concrete (reproduce steps, debug/error logs, expectaction vs actual result).
-- 👍 Likes: minimal fixes, clear tradeoffs, no word salads.
