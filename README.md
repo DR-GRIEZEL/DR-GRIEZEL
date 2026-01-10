@@ -1,13 +1,16 @@
 # DR_GRIEZEL
 
-**Quant finance** · **Simulations** · **Minimalism** · **Automations**
+**Python** · **Linux** · **Git** · **CI/CD** · **API** · **Web**
 
 Focus: Automated bots, Python data-engineering, Linux & self-hosting, Web development
+
+<img src="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DR-GRIEZEL&layout=compact" />
 
 ---
 
 ## Currently working on
-- **Bot API → GitHub Pages dashboard** (public frontend, private server)
+- **Bot API → GitHub Pages dashboard**
 - **Discord bot UI** for displaying market data / portfolio / alerts
 
 ## Project status
@@ -24,13 +27,6 @@ Focus: Automated bots, Python data-engineering, Linux & self-hosting, Web develo
 Legend: 🟢 stable · 🟡 active · 🟠 in progress · 🔴 paused
 
 ---
-
-## Tech stack
-- **Python**
-- **Linux (Debian)**
-- **GitHub Actions**
-- **API**
-- **Web**
 
 ## Engineering rules
 - Modular, minimalistic frameworks. Structure before content.
