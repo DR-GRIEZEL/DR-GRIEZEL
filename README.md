@@ -2,6 +2,7 @@
 
 **Python** · **Linux** · **Git** · **CI/CD** · **API** · **Web** · **Bots**
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&rank_icon=github&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&rank_icon=github&theme=default" />
