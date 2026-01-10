@@ -22,3 +22,5 @@ jobs:
           USERNAME: DR-GRIEZEL
           BRANCH: main
           UTC_OFFSET: 1
+          AUTO_PUSH: true
+
