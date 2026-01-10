@@ -1,11 +1,8 @@
 # DR_GRIEZEL
 
-**Python** · **Linux** · **Git** · **CI/CD** · **API** · **Web**
+**Python** · **Linux** · **Git** · **CI/CD** · **API** · **Web** · **Bots**
 
-Focus: Automated bots, Python data-engineering, Linux & self-hosting, Web development
-
-<img src="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DR-GRIEZEL&layout=compact" />
+[![DR-GRIEZEL's GitHub stats](https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL)](https://github.com/DR-GRIEZEL/github-readme-stats)
 
 ---
 
