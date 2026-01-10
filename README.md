@@ -3,17 +3,7 @@
 **Python** · **Linux** · **Git** · **CI/CD** · **API** · **Web** · **Bots**
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&rank_icon=github&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&rank_icon=github&theme=default" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&rank_icon=github&theme=default" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DR-GRIEZEL&layout=compact&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DR-GRIEZEL&layout=compact&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5&theme=default" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DR-GRIEZEL&layout=compact&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5&theme=default" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL" alt="stats" />
 
 ---
 
