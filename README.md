@@ -2,7 +2,7 @@
 
 **Python** · **Linux** · **Git** · **CI/CD** · **API** · **Web** · **Bots**
 
-![](https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&cache_seconds=86400&v=1)
+![](https://raw.githubusercontent.com/DR-GRIEZEL/DR-GRIEZEL/main/github-metrics.svg)
 
 ---
 
