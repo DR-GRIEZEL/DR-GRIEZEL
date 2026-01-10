@@ -2,7 +2,7 @@
 
 **Python** · **Linux** · **Git** · **CI/CD** · **API** · **Web** · **Bots**
 
-![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![](https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&cache_seconds=86400&v=1)
 
 ---
 
