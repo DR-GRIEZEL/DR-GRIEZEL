@@ -2,17 +2,17 @@
 
 **Python** · **Linux** · **Git** · **CI/CD** · **API** · **Web** · **Bots**
 
-<!-- GitHub Stats (light/dark auto) -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&rank_icon=github&theme=default#gh-light-mode-only)](https://github.com/DR-GRIEZEL#gh-light-mode-only)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/DR-GRIEZEL#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&rank_icon=github&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&rank_icon=github&theme=default" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DR-GRIEZEL&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&rank_icon=github&theme=default" />
+</picture>
 
-<!-- Top Languages (compact + betere ranking balans) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DR-GRIEZEL&layout=compact&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5&theme=default#gh-light-mode-only)](https://github.com/DR-GRIEZEL#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DR-GRIEZEL&layout=compact&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only)](https://github.com/DR-GRIEZEL#gh-dark-mode-only)
-
-<!-- Extra pinned repo card (voorbeeld: vervang repo=...) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=linux-config-files&show_owner=true&hide_border=true&border_radius=10&theme=default#gh-light-mode-only)](https://github.com/DR-GRIEZEL/linux-config-files#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DR-GRIEZEL&repo=linux-config-files&show_owner=true&hide_border=true&border_radius=10&theme=dark#gh-dark-mode-only)](https://github.com/DR-GRIEZEL/linux-config-files#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DR-GRIEZEL&layout=compact&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DR-GRIEZEL&layout=compact&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5&theme=default" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DR-GRIEZEL&layout=compact&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5&theme=default" />
+</picture>
 
 ---
 
