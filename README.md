@@ -16,7 +16,8 @@ No activity tracked
 
 ---
 
-## Currently working on
+## Personal status
+
 - **Bot API → GitHub Pages dashboard**
 - **Discord bot UI** (market data / portfolio / alerts)
 
