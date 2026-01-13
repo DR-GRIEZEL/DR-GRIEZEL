@@ -48,13 +48,12 @@ Legend: 🟢 stable · 🟡 active · 🟠 in progress · 🔴 paused
 |---|---|---|
 
 ### Tools 🛠️
-
-- Tool Stack
+Tool Stack
 
 | [<img src="https://raw.githubusercontent.com/DR-GRIEZEL/DR-GRIEZEL/master/img/actions.png" alt="actions logo" width="24">](https://github.com/features/actions) | [<img src="https://raw.githubusercontent.com/DR-GRIEZEL/DR-GRIEZEL/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/DR-GRIEZEL/DR-GRIEZEL/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/DR-GRIEZEL/DR-GRIEZEL/master/img/gimp.png" alt="gimp logo" width="24">](https://www.gimp.org/) | [<img src="https://raw.githubusercontent.com/DR-GRIEZEL/DR-GRIEZEL/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html)| Windows Terminal | WSL |
 |---|---|---|---|---|---|---|
 
-- Learning
+Learning
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/DR-GRIEZEL/DR-GRIEZEL/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/DR-GRIEZEL/DR-GRIEZEL/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)|
 |---|---|---|
