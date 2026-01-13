@@ -37,7 +37,7 @@ Legend: 🟢 stable · 🟡 active · 🟠 in progress · 🔴 paused
 
 ### Programming Languages 🌐
 
-- Know/Using
+- Tech Stack
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/)  |
 |---|---|---|
@@ -49,7 +49,7 @@ Legend: 🟢 stable · 🟡 active · 🟠 in progress · 🔴 paused
 
 ### Tools 🛠️
 
-- Know/Using
+- Tool Stack
 
 | [<img src="https://raw.githubusercontent.com/DR-GRIEZEL/DR-GRIEZEL/master/img/actions.png" alt="actions logo" width="24">](https://github.com/features/actions) | [<img src="https://raw.githubusercontent.com/DR-GRIEZEL/DR-GRIEZEL/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/DR-GRIEZEL/DR-GRIEZEL/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/DR-GRIEZEL/DR-GRIEZEL/master/img/gimp.png" alt="gimp logo" width="24">](https://www.gimp.org/) | [<img src="https://raw.githubusercontent.com/DR-GRIEZEL/DR-GRIEZEL/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html)| Windows Terminal | WSL |
 |---|---|---|---|---|---|---|
