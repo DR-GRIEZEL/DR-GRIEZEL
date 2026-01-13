@@ -1,6 +1,6 @@
 # [DR_GRIEZEL](https://dr-griezel.github.io/) 💻🐒
 
-**Python** · **Linux** · **Git** · **CI/CD** · **API** · **Web** · **Bots** · **Quant**
+**Python** · **Linux** · **CI/CD** · **API** · **Web** · **Bots** · **Quant**
 
 ![](profile-summary-card-output/github_dark/0-profile-details.svg)
 
