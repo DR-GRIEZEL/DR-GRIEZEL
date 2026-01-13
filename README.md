@@ -2,9 +2,7 @@
 
 **Python** · **Linux** · **CI/CD** · **API** · **Web** · **Bots** · **Quant**
 
-![](profile-summary-card-output/github_dark/0-profile-details.svg)
-
-![](profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](profile-summary-card-output/github_dark/0-profile-details.svg) ![](profile-summary-card-output/github_dark/1-repos-per-language.svg)
 
 <!--START_SECTION:waka-->
 
